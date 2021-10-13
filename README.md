@@ -6,6 +6,15 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 
 **Skills**: HTML / CSS / JS / WordPress
 
+- 🔭 I’m currently working on an Inventory Metrics tool for small businesses 
+- 🌱 I’m currently learning JavaScript  
+- 💬 Ask me about Camping, bushcraft, guitar, music theory, outdoor photography, ... 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jim-kernicky/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/jim-kernicky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kernixwebdesign.com/resume-portfolio.html)  
+
+
+
 [![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kernix13)](https://github.com/Kernix13/github-readme-stats)
 
 
