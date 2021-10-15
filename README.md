@@ -18,7 +18,6 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 
 
 [![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kernix13)](https://github.com/Kernix13/github-readme-stats)
-[grd_count repo="WriterAssist"]
 
 
 
