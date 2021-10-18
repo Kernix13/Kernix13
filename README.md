@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/Kernix13/Kernix13/blob/main/GMB-cover.png)
+[![Jim's GitHub Banner](./assets/GitHubHeader.png)](https://kernixwebdesign.com/)
 
 # Hi there 👋, I'm Jim Kernicky
 
