@@ -13,7 +13,7 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 - 💬 Ask me about camping, bushcraft, guitar, music theory, outdoor photography, ... 
 
 
-Trying a new generator below here
+*Trying a new generator below here*
 - - -
 - 🔭 I’m currently working on [Inventory Tracking & Analysis tool](https://kernixwebdesign.com/resume-portfolio.html)
 
