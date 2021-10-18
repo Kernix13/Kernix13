@@ -12,6 +12,8 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 
 - 🌱 I’m currently learning **Vanilla JavaScript, Git**
 
+- 🌱 Next on the classroom chalkboard is **React, Node.js, MongoDB, SASS, and jQuery** 
+
 - 💬 Ask me about camping, bushcraft, guitar, music theory, outdoor photography, ... 
 
 - 🔭 I’m currently working on [Inventory Tracking & Analysis tool](https://kernixwebdesign.com/resume-portfolio.html)
