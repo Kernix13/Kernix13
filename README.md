@@ -9,9 +9,9 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 **Skills**: HTML / CSS / JS / WordPress
 
 - 🔭 I’m currently working on an Inventory Metrics tool for small businesses 
-- 
+
 - 🌱 I’m currently learning **Vanilla JavaScript, Git**
-- 
+
 - 💬 Ask me about camping, bushcraft, guitar, music theory, outdoor photography, ... 
 
 - 🔭 I’m currently working on [Inventory Tracking & Analysis tool](https://kernixwebdesign.com/resume-portfolio.html)
@@ -24,7 +24,7 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 - 
 - - - -
 
-## Connect with me:
+### Connect with me:
 <p align="left">
 <a href="https://codepen.io/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jim-kernicky" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-kernicky" height="30" width="40" /></a>
