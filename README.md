@@ -8,15 +8,13 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 
 **Skills**: HTML / CSS / JS / WordPress
 
-- 🔭 I’m currently working on an Inventory Metrics tool for small businesses 
+- 🔭 I’m currently working on an Inventory Tracking & Analysis tool for small businesses 
 
 - 🌱 I’m currently learning **Vanilla JavaScript, Git**
 
 - 🌱 Next on the classroom chalkboard: **React, Node.js, MongoDB** 
 
 - 💬 Ask me about camping, bushcraft, guitar, music theory, outdoor photography, ... 
-
-- 🔭 I’m currently working on [Inventory Tracking & Analysis tool](https://kernixwebdesign.com/resume-portfolio.html)
 
 - 👯 I’m looking to collaborate on **JS generated Guitar Chord SVGs**
 
