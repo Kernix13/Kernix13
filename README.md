@@ -1,4 +1,4 @@
-[![Jim's GitHub Banner](./assets/GitHubHeader.png)](https://kernixwebdesign.com/)
+[![Jim's GitHub Banner](./assets/GitHubBanner750.3.jpg)](https://kernixwebdesign.com/)
 
 # Hi there 👋, I'm Jim Kernicky
 
