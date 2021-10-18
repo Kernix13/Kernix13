@@ -21,7 +21,7 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 - 🤝 I’m looking for help with [Keyboard layouts for different languages](https://kernixwebdesign.com/writer-assist.html)
 
 - 👨‍💻 All of my projects are available at [Resume Portfolio](https://kernixwebdesign.com/resume-portfolio.html)
-- 
+
 - - - -
 
 ### Connect with me:
