@@ -1,6 +1,6 @@
 [![Jim's GitHub Banner](./assets/GitHubBanner500.jpg)](https://kernixwebdesign.com/)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13?style=for-the-badge)
-![GitHub all releases](https://img.shields.io/github/downloads/Kernix13/Kernix13/total?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/Kernix13/Kernix13/total?style=flat-square)
 [![hits](https://hits.deltapapa.io/github/Kernix13/hits-badge.svg)](https://hits.deltapapa.io)
 # Hi there 👋, I'm Jim Kernicky
 
@@ -38,11 +38,8 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 
 ## Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&show_icons=true&locale=en&layout=compact" alt="kernix13" /></p>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&locale=en" alt="kernix13" /></p>
-<br>
 
-<br>
 
 
 
