@@ -38,6 +38,8 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&show_icons=true&locale=en&layout=compact" alt="kernix13" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&locale=en" alt="kernix13" /></p>
+<br>
+<p>[![HitCount](http://hits.dwyl.com/{username}/{project}.svg?style=flat-square)](http://hits.dwyl.com/{username}/{project})</p>
 
 
 
