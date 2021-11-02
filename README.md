@@ -1,5 +1,6 @@
 [![Jim's GitHub Banner](./assets/GitHubBanner500.jpg)](https://kernixwebdesign.com/)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/Kernix13/Kernix13/total?style=for-the-badge)
 [![hits](https://hits.deltapapa.io/github/Kernix13/hits-badge.svg)](https://hits.deltapapa.io)
 # Hi there 👋, I'm Jim Kernicky
 
