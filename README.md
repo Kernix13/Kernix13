@@ -39,7 +39,7 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&locale=en" alt="kernix13" /></p>
 <br>
-https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13?style=for-the-badge)
 <br>
 [![hits](https://hits.deltapapa.io/github/Kernix13/hits-badge.svg)](https://hits.deltapapa.io)
 
