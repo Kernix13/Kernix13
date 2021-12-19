@@ -39,6 +39,7 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 ## Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&show_icons=true&locale=en&layout=compact&bg_color=d1d1d9" alt="kernix13" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&locale=en&bg_color=d1d1d9" alt="kernix13" /></p>
 
 
