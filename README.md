@@ -57,8 +57,8 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 <!-- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> -->
 </p>
 
-## Languages
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&show_icons=true&locale=en&layout=compact&bg_color=d1d1d9" alt="kernix13" /></p>
+## GitHub Repo Languages
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&show_icons=true&locale=en&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="kernix13" /></p>
 
 ## GitHub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&locale=en&bg_color=d1d1d9" alt="kernix13" /></p>
