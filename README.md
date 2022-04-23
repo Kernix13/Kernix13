@@ -23,8 +23,6 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 
 - 🤝 I’m looking for help with [Keyboard layouts for different languages](https://kernixwebdesign.com/writer-assist.html)
 
-- - -
-
 ## Blog Posts
 
 - [Markdown Cheat Sheet for Beginners](https://kernixwebdesign.com/website/code/markdown-cheat-sheet-beginners/)
