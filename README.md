@@ -1,20 +1,19 @@
-<h1 align="center">Jim Kernicky</h1>
-
 [![Jim's GitHub Banner](./assets/GitHubBanner500.jpg)](https://kernixwebdesign.com/)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13?style=flat-square)
 ![GitHub all releases](https://img.shields.io/github/downloads/Kernix13/Kernix13/total?style=flat-square)
 [![hits](https://hits.deltapapa.io/github/Kernix13/hits-badge.svg)](https://hits.deltapapa.io)
-# Hi there 👋, I'm Jim Kernicky
+
+<h1 align="center">Jim Kernicky</h1>
 
 I live in Springfield, Pennsylvania. I am currently studying JavaScript with the goal of landing a Front End Developer job. I have loved learning all my life and web design and development is what I have been learning the last few years. I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2019, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using underscores as a starter template. You can check out that website at [Kernix Web Design](https://kernixwebdesign.com/). Also, take a look at my personal [portfolio page](https://kernixwebdesign.com/resume-portfolio.html).
 
 ## Design and Development
 
-**Skills**: HTML / CSS / JS / WordPress
+**Skills**: HTML / CSS / JavaScript / WordPress
 
-- 🔭 I’m currently working on an Inventory Tracking & Analysis tool for small businesses 
+- &#10146; I’m currently working on a React based messaging app.
 
-- 🌱 I’m currently learning **Vanilla JavaScript, Git**
+- &check; I’m currently learning **Vanilla JavaScript, Git, React, SASS, and Webpack**.
 
 - 🌱 Next on the classroom chalkboard: **React, Node.js, MongoDB** 
 
@@ -24,13 +23,17 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 
 - 🤝 I’m looking for help with [Keyboard layouts for different languages](https://kernixwebdesign.com/writer-assist.html)
 
-- 👨‍💻 All of my projects are available at [Resume Portfolio](https://kernixwebdesign.com/resume-portfolio.html)
+- - -
 
-- - - -
+## Blog Posts
+
+- [Markdown Cheat Sheet for Beginners](https://kernixwebdesign.com/website/code/markdown-cheat-sheet-beginners/)
+- [18 Graphic Design Tips for Your Website](https://kernixwebdesign.com/website/18-graphic-design-tips-websites/)
+- [WordPress Recent Posts using a Custom Query](https://kernixwebdesign.com/website/code/wordpress-recent-posts-using-a-custom-query/)
 
 ### Connect with me:
 <p align="left">
-<a href="https://codepen.io/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jim-kernicky" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jim-kernicky" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-kernicky" height="30" width="40" /></a>
 <a href="https://fb.com/jim.kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jim.kernicky" height="30" width="40" /></a>
 </p>
