@@ -23,7 +23,9 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 
 - 🤝 I’m looking for help with [Keyboard layouts for different languages](https://kernixwebdesign.com/writer-assist.html)
 
-## Some of my Blog Posts
+## Blog Posts
+
+Here are a few links to articles I wrote on my web design site:
 
 - [Markdown Cheat Sheet for Beginners](https://kernixwebdesign.com/website/code/markdown-cheat-sheet-beginners/)
 - [18 Graphic Design Tips for Your Website](https://kernixwebdesign.com/website/18-graphic-design-tips-websites/)
@@ -66,7 +68,7 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 
 <br>
 
-## Number of visits
+### Number of visits
 
 <br>
 
