@@ -1,3 +1,5 @@
+<h1 align="center">Jim Kernicky</h1>
+
 [![Jim's GitHub Banner](./assets/GitHubBanner500.jpg)](https://kernixwebdesign.com/)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13?style=flat-square)
 ![GitHub all releases](https://img.shields.io/github/downloads/Kernix13/Kernix13/total?style=flat-square)
