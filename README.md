@@ -58,7 +58,7 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 </p>
 
 ## GitHub Repo Languages
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&show_icons=true&locale=en&locale=en&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13's GitHub Top Languages" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&show_icons=true&locale=en&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13's GitHub Top Languages" /></p>
 
 ## GitHub Repo Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&locale=en&bg_color=d1d1d9" alt="Kernix13 GitHub Stats" /></p>
