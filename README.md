@@ -63,3 +63,11 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 
 ## GitHub Repo Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13 GitHub Stats" /></p>
+
+<br>
+
+## Number of visits
+
+<br>
+
+![VisitorCount](https://profile-counter.glitch.me/{kernix13}/count.svg)
