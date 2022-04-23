@@ -34,7 +34,7 @@ I live in Springfield, Pennsylvania. I am currently studying JavaScript with the
 <!-- <a href="https://codepen.io/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jim-kernicky" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-kernicky" height="30" width="40" /></a>
 <a href="https://fb.com/jim.kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jim.kernicky" height="30" width="40" /></a>
-<a href = "https://twitter.com/jimkernicky"><img src="https://img.icons8.com/fluent/24/000000/twitter.png" alt="jimkernicky"/></a>
+<!-- <a href = "https://twitter.com/jimkernicky"><img src="https://img.icons8.com/fluent/30/000000/twitter.png" alt="jimkernicky"/></a> -->
 </p>
 
 ## Languages and Tools
