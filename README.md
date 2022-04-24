@@ -40,7 +40,7 @@ Here are a few links to articles I wrote on my site [Kernix Web Design](https://
 - B.S. Operations Management, Drexel Univeristy 1992
 - 12+ years experience as an Inventory & Forecast Planner/Analyst in the manufacturing, distribution, and retail industries.
 - The companies I worked for varied in size from $10M to $4B annual sales.
-- Started my pet services business in 2008. I have met and had over 200 clients and 8 employees.
+- Started my pet services business in 2008. I had well over 200 clients and also hired 8 employees.
 - Currently taking courses on Udemy and [freeCodeCamp](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7).
 - I had a short-lived job as a **Topic Creator** with _The HOTH_, and helping [Two Average Gamers](https://twoaveragegamers.com/) with their WordPress _issues_.
 
