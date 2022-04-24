@@ -25,7 +25,7 @@ I installed WordPress on one of those sites in 2018, and have since built two ot
 
 - 🤝 I’m looking for help with [Keyboard layouts for different languages](https://kernixwebdesign.com/writer-assist.html).
 
-- 💬 Ask me about camping, bushcraft, botany, guitar, music theory, outdoor photography, ...
+- 💬 Ask me about camping, bushcraft, botany, guitar, music theory, and/or outdoor photography.
 
 ## MY BLOG POSTS
 
