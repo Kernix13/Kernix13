@@ -25,21 +25,38 @@ I installed WordPress on one of those sites in 2018, and have since built two ot
 
 - 🤝 I’m looking for help with [Keyboard layouts for different languages](https://kernixwebdesign.com/writer-assist.html).
 
-- 💬 Ask me about camping, bushcraft, guitar, music theory, outdoor photography, ... 
+- 💬 Ask me about camping, bushcraft, botany, guitar, music theory, outdoor photography, ...
 
-## Blog Posts
+## MY BLOG POSTS
 
-Here are a few links to articles I wrote on my web design site:
+Here are a few links to articles I wrote on my site [Kernix Web Design](https://kernixwebdesign.com/blog/):
 
 - [Markdown Cheat Sheet for Beginners](https://kernixwebdesign.com/website/code/markdown-cheat-sheet-beginners/)
 - [18 Graphic Design Tips for Your Website](https://kernixwebdesign.com/website/18-graphic-design-tips-websites/)
 - [WordPress Recent Posts using a Custom Query](https://kernixwebdesign.com/website/code/wordpress-recent-posts-using-a-custom-query/)
 
-### Connect with me
+## MY EDUCATION & EXPERIENCE
+
+- B.S. Operations Management, Drexel Univeristy 1992
+- 12+ years experience as an inventory/forecast planner/analyst
+- Worked in the manufacturing, distribution, and retail industries. The companies varied in size from 10M to 4B annual sales.
+- Started my pet services business in 2008. I have met and had over 200 clients and 8 employees.
+- Currently taking courses on Udemy and freeCodeCamp.
+- I had a short-lived job as a Topic Creator with The HOTH, and helping [Two Average Gamers](https://twoaveragegamers.com/) with the WordPress _issues_.
+
+### SEND ME A MESSAGE:
+
 <p align="left">
-<!-- <a href="https://codepen.io/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jim-kernicky" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-kernicky" height="30" width="40" /></a>
-<a href="https://fb.com/jim.kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jim.kernicky" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-kernicky" height="24" width="32" /></a>
+
+<a href="https://fb.com/jim.kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jim.kernicky" height="24" width="32" /></a>
+
+<a href="mailto:jimkernicky@gmail.com">
+  <img align="center" width="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+
+<a href="https://twitter.com/jimkernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jimkernicky" height="27" width="36" />
+</a>
 <!-- <a href = "https://twitter.com/jimkernicky"><img src="https://img.icons8.com/fluent/30/000000/twitter.png" alt="jimkernicky"/></a> -->
 </p>
 
