@@ -7,9 +7,9 @@
 
 ## ABOUT ME
 
-I live in Springfield, Pennsylvania. I am currently studying JavaScript with the goal of landing a Front End Developer job. I have loved learning all my life and web design and development is what I have been learning the last few years. I built my first two websites in 2009 using Dreamweaver.
+I live in Springfield, Pennsylvania. I am currently studying JavaScript with the goal of landing a Front End Developer job. I have loved learning all my life and web design and development is what I have been learning the last few years.
 
-I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _underscores_ as a starter template. You can check out that website at [Kernix Web Design](https://kernixwebdesign.com/). Also, take a look at my personal [portfolio page](https://kernixwebdesign.com/resume-portfolio.html).
+I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _underscores_ as a starter template. You can check out that website at [Kernix Web Design](https://kernixwebdesign.com/). Also, take a look at my personal [portfolio page](https://kernixwebdesign.com/resume-portfolio.html).
 
 ## WHAT AM I WORKING ON?
 
