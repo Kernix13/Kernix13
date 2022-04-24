@@ -17,9 +17,9 @@ I installed WordPress on one of those sites in 2018, and have since built two ot
 
 - &#10146; I’m currently working on a React based messaging app.
 
-- &check; I’m currently learning **Vanilla JavaScript, Git, React, SASS, and Webpack**.
+- &check; I’m currently learning **Express.js, MongoDB, SASS, and Webpack**.
 
-- 🌱 Next on the classroom chalkboard: **React, Node.js, MongoDB** .
+- 🌱 Next on the classroom chalkboard: **D3.js, Tailwind, and Express.js**.
 
 - 👯 I’m looking to collaborate on **JS generated Guitar Chord SVGs**.
 
