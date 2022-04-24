@@ -78,10 +78,10 @@ Here are a few links to articles I wrote on my site [Kernix Web Design](https://
 </p>
 
 ## GITHUB REPO LANGUAGES
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&show_icons=true&locale=en&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13's GitHub Top Languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&show_icons=true&locale=en&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13's GitHub Top Languages" /></p>
 
 ## GITHUB STATS
-<p><img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13 GitHub Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13 GitHub Stats" /></p>
 
 <br>
 
@@ -89,4 +89,8 @@ Here are a few links to articles I wrote on my site [Kernix Web Design](https://
 
 <br>
 
-![VisitorCount](https://profile-counter.glitch.me/{kernix13}/count.svg)
+<p align="center"><img src="https://profile-counter.glitch.me/{kernix13}/count.svg">
+
+<!-- ![VisitorCount](https://profile-counter.glitch.me/{kernix13}/count.svg) -->
+
+</p>
