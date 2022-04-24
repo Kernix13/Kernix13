@@ -57,7 +57,7 @@ Here are a few links to articles I wrote on my site [Kernix Web Design](https://
 <!-- <a href = "https://twitter.com/jimkernicky"><img src="https://img.icons8.com/fluent/30/000000/twitter.png" alt="jimkernicky"/></a> -->
 </p>
 
-## Languages and Tools
+## LANGUAGES AND TOOLS
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
@@ -78,15 +78,15 @@ Here are a few links to articles I wrote on my site [Kernix Web Design](https://
 <!-- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> -->
 </p>
 
-## GitHub Repo Languages
+## GITHUB REPO LANGUAGES
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&show_icons=true&locale=en&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13's GitHub Top Languages" /></p>
 
-## GitHub Repo Stats
+## GITHUB STATS
 <p><img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13 GitHub Stats" /></p>
 
 <br>
 
-### Number of visits
+### PROFILE VISITS
 
 <br>
 
