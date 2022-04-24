@@ -38,7 +38,7 @@ Here are a few links to articles I wrote on my site [Kernix Web Design](https://
 ## MY EDUCATION & EXPERIENCE
 
 - B.S. Operations Management, Drexel Univeristy 1992
-- 12+ years experience as an inventory/forecast planner/analyst
+- 12+ years experience as an Inventory & Forecast Planner/Analyst.
 - Worked in the manufacturing, distribution, and retail industries. The companies varied in size from 10M to 4B annual sales.
 - Started my pet services business in 2008. I have met and had over 200 clients and 8 employees.
 - Currently taking courses on Udemy and freeCodeCamp.
