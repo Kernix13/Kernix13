@@ -44,17 +44,14 @@ Here are a few links to articles I wrote on my site [Kernix Web Design](https://
 - Currently taking courses on Udemy and freeCodeCamp.
 - I had a short-lived job as a Topic Creator with The HOTH, and helping [Two Average Gamers](https://twoaveragegamers.com/) with the WordPress _issues_.
 
-### SEND ME A MESSAGE:
+### SEND ME A MESSAGE
 
 <p align="left">
 <a href="https://linkedin.com/in/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-kernicky" height="24" width="32" /></a>
-
 <a href="https://fb.com/jim.kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jim.kernicky" height="24" width="32" /></a>
-
 <a href="mailto:jimkernicky@gmail.com">
   <img align="center" width="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
-
 <a href="https://twitter.com/jimkernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jimkernicky" height="27" width="36" />
 </a>
 <!-- <a href = "https://twitter.com/jimkernicky"><img src="https://img.icons8.com/fluent/30/000000/twitter.png" alt="jimkernicky"/></a> -->
