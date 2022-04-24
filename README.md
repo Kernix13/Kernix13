@@ -42,7 +42,7 @@ Here are a few links to articles I wrote on my site [Kernix Web Design](https://
 - Worked in the manufacturing, distribution, and retail industries. The companies varied in size from 10M to 4B annual sales.
 - Started my pet services business in 2008. I have met and had over 200 clients and 8 employees.
 - Currently taking courses on Udemy and [freeCodeCamp](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7).
-- I had a short-lived job as a Topic Creator with The HOTH, and helping [Two Average Gamers](https://twoaveragegamers.com/) with the WordPress _issues_.
+- I had a short-lived job as a Topic Creator with The HOTH, and helping [Two Average Gamers](https://twoaveragegamers.com/) with their WordPress _issues_.
 
 ### SEND ME A MESSAGE
 
