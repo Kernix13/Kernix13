@@ -15,9 +15,9 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 **Skills**: HTML / CSS / JavaScript / WordPress
 
-- &#10146; I’m currently working on a React based messaging app.
+- &#10146; I’m currently working on a React based bushcraft tarp-shelter app.
 
-- &check; I’m currently learning **Express.js, MongoDB, SASS, and Webpack**.
+- &check; I’m currently learning **Firebase, MongoDB, SASS, and Webpack**.
 
 - 🌱 Next on the classroom chalkboard: **D3.js, Tailwind, and Express.js**.
 
@@ -64,7 +64,8 @@ Here are a few links to articles I wrote on my site [Kernix Web Design](https://
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/react-native.png"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<!-- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> -->
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
