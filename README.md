@@ -31,6 +31,7 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 Here are a few links to articles I wrote on my site [Kernix Web Design](https://kernixwebdesign.com/blog/):
 
+- [Learn JavaScript: String and Array Methods](https://kernixwebdesign.com/website/learn-javascript-string-array-methods/)
 - [Markdown Cheat Sheet for Beginners](https://kernixwebdesign.com/website/code/markdown-cheat-sheet-beginners/)
 - [18 Graphic Design Tips for Your Website](https://kernixwebdesign.com/website/18-graphic-design-tips-websites/)
 - [WordPress Recent Posts using a Custom Query](https://kernixwebdesign.com/website/code/wordpress-recent-posts-using-a-custom-query/)
