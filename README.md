@@ -44,7 +44,7 @@ Here are a few links to articles I wrote on my site [Kernix Web Design](https://
 - The companies I worked for varied in size from $10M to $4B annual sales.
 - Started my pet services business in 2008. I had well over 200 clients and also hired 8 employees.
 - Currently taking courses on Udemy and [freeCodeCamp](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7).
-- frrCodeCamp cirtifications: 
+- freeCodeCamp certifications: 
   1. Responsive Web Design (issues July 2, 2021), 
   2. JavaScript Algorithms and Data Structures (issued March 30, 2022) 
 - I had a short-lived job as a **Topic Creator** with _The HOTH_, and helping [Two Average Gamers](https://twoaveragegamers.com/) with their WordPress _issues_.
