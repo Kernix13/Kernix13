@@ -6,6 +6,8 @@
 
 **<h1 align="center"><ins>JIM KERNICKY</ins></h1>**
 
+<img src="https://github.com/Kernix13/Kernix13/blob/main/circle-profile-pic.png" >
+
 ## ABOUT ME
 
 I currently live in Springfield, Pennsylvani, aand and am studying variou web languages and technologies with the goal of landing a Front End Developer job. I have loved learning all my life, and I have been studying web design and development the last few years.
