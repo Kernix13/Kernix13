@@ -94,11 +94,11 @@ Here are a few links to articles I wrote on my site [Kernix Web Design](https://
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="react icon" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass icon" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="php icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="bash icon" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="jquery icon" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="48" height="48" alt="webpack icon" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40" height="40" alt="slack icon" /></span>
 <span><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="postman icon" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="bash icon" /></span>
 <!-- <span><img src="" width="48" height="48" alt="html icon" /></span> -->
 </p>
 
