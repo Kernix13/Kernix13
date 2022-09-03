@@ -84,7 +84,7 @@ Here are a few links to articles I wrote on my site [Kernix Web Design](https://
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="figma icon" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" width="48" height="48" alt="inkscape icon" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="48" height="48" alt="gimp icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg" width="48" height="48" alt="codepen icon" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" width="48" height="48" alt="codepen icon" /></span>
 <!-- <span><img src="" width="48" height="48" alt="html icon" /></span> -->
 </p>
 
