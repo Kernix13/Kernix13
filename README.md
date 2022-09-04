@@ -10,7 +10,7 @@
 
 ## ABOUT ME
 
-I currently live in Springfield, Pennsylvani, aand and am studying variou web languages and technologies with the goal of landing a Front End Developer job. I have loved learning all my life, and I have been studying web design and development the last few years.
+I currently live in Springfield, Pennsylvani, aand and am studying various web languages and technologies with the goal of landing a Front End Developer job. I have loved learning all my life, and I have been studying web design and development the last few years.
 
 I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _underscores_ as a starter template. You can check out that website at [Kernix Web Design](https://kernixwebdesign.com/). Also, take a look at my personal [portfolio page](https://kernixwebdesign.com/resume-portfolio.html) and my online [Web Development Resume](https://kernixwebdesign.com/inventory-management-resume/).
 
@@ -18,11 +18,11 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 **Skills**: HTML / CSS / JavaScript / WordPress
 
-- &#10146; I’m currently working on a React based bushcraft tarp-shelter app.
+- &#10146; I’m currently taking a UI Design course from Gary Simon.
 
-- &check; I’m currently learning **Firebase, MongoDB, SASS, and Webpack**.
+- &check; I’m currently planning a JavScript workspace designed for remote work (ask me about it).
 
-- 🌱 Next on the classroom chalkboard: **D3.js, Tailwind, and Express.js**.
+- 🌱 Next on the classroom chalkboard: **OOP, React projects, SASS**.
 
 - 👯 I’m looking to collaborate on **JS generated Guitar Chord SVGs**.
 
@@ -102,7 +102,7 @@ Here are a few links to articles I wrote on my site [Kernix Web Design](https://
 <!-- <span><img src="" width="48" height="48" alt="html icon" /></span> -->
 </p>
 
-**Knowledgeable but still a total beginner**:
+**Limited experience with the following**:
 
 <p align="left">
 <!-- Add Babel? -->
