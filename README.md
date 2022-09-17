@@ -30,9 +30,7 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 - 💬 Ask me about camping, bushcraft, botany, guitar, music theory, and/or outdoor photography.
 
-## MY BLOG POSTS
-
-Here are a few links to articles I wrote on my site [Kernix Web Design](https://kernixwebdesign.com/blog/):
+## MY LATEST BLOG POSTS
 
 - [Learn JavaScript: String and Array Methods](https://kernixwebdesign.com/website/learn-javascript-string-array-methods/)
 - [Markdown Cheat Sheet for Beginners](https://kernixwebdesign.com/website/code/markdown-cheat-sheet-beginners/)
