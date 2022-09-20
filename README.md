@@ -1,6 +1,8 @@
 <!-- [![Jim's GitHub Banner](./assets/GitHubBanner500.jpg)](https://kernixwebdesign.com/) -->
+
 [![Jim's GitHub Banner](./assets/GitHubAlchemy1.jpg)](https://kernixwebdesign.com/resume-portfolio.html)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13?style=flat-square)
+
 <!-- ![GitHub all releases](https://img.shields.io/github/downloads/Kernix13/Kernix13/total?style=flat-square) -->
 <!-- [![hits](https://hits.deltapapa.io/github/Kernix13/hits-badge.svg)](https://hits.deltapapa.io) -->
 
@@ -44,9 +46,9 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 - The companies I worked for varied in size from $10M to $4B annual sales.
 - Started my pet services business in 2008. I had well over 200 clients and also hired 8 employees.
 - Currently taking courses on Udemy and [freeCodeCamp](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7).
-- freeCodeCamp certifications: 
-  1. Responsive Web Design (issued July 2, 2021), 
-  2. JavaScript Algorithms and Data Structures (issued March 30, 2022) 
+- freeCodeCamp certifications:
+  1. Responsive Web Design (issued July 2, 2021),
+  2. JavaScript Algorithms and Data Structures (issued March 30, 2022)
 - I had a short-lived job as a **Topic Creator** with _The HOTH_, and helping [Two Average Gamers](https://twoaveragegamers.com/) with their WordPress _issues_.
 
 ### SEND ME A MESSAGE
@@ -68,54 +70,59 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 <p align="left">
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html icon" title="HTML5"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="css icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"  alt="javascript icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="wordpress icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="bootstrap icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="tailwind icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vs code icon" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="css icon" title="CSS3" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"  alt="javascript icon" title="JavaScript" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="wordpress icon" title="WordPress" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="bootstrap icon" title="Bootstrap" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="tailwind icon" title="Tailwind CSS" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vs code icon" title="VS Code" /></span>
 </p>
 <p align="left">
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="git icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="48" height="48" alt="photoshop icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="figma icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" width="48" height="48" alt="inkscape icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="48" height="48" alt="gimp icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" width="48" height="48" alt="codepen icon" /></span>
-<!-- <span><img src="" width="48" height="48" alt="html icon" /></span> -->
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="git icon" title="Git" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm icon" title="NPM" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" width="48" height="48" alt="inkscape icon" title="Inkscape" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="48" height="48" alt="gimp icon" title="GIMP" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="48" height="48" alt="markdown icon" title="Markdown" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" width="48" height="48" alt="codepen icon" title="CodePen" /></span>
+<!-- <span><img src="" width="48" height="48" alt="html icon" title="Express.js" /></span> -->
 </p>
 
 **Experienced but not as strong as above**:
 
 <p align="left">
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="react icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="php icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="jquery icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="48" height="48" alt="webpack icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40" height="40" alt="slack icon" /></span>
-<span><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="postman icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="bash icon" /></span>
-<!-- <span><img src="" width="48" height="48" alt="html icon" /></span> -->
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="react icon" title="React" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass icon" title="SASS" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="48" height="48" alt="photoshop icon" title="Photoshop" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="figma icon" title="Figma" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="jquery icon" title="jQuery" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="48" height="48" alt="webpack icon" title="Webpack" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40" height="40" alt="slack icon" title="Slack" /></span>
+<span><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="postman icon" title="Postman" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="bash icon" title="Git Bash" /></span>
+<!-- <span><img src="" width="48" height="48" alt="html icon" title="Express.js" /></span> -->
 </p>
 
 **Limited experience with the following**:
 
 <p align="left">
 <!-- Add Babel? -->
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="firebase icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb icon" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="express icon" /></span>
-<!-- <span><img src="" width="48" height="48" alt="html icon" /></span> -->
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="php icon" title="PHP" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="firebase icon" title="Firebase" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs icon" title="Node.js" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql icon" title="MySQL" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb icon" title="MongoDB" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="48" height="48" alt="trello icon" title="Trello" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" width="48" height="48" alt="confluence icon" title="Confluence" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="express icon" title="Express.js" /></span>
+<!-- <span><img src="" width="48" height="48" alt="html icon" title="Express.js" /></span> -->
 </p>
 
 ## GITHUB REPO LANGUAGES
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&show_icons=true&locale=en&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13's GitHub Top Languages" /></p>
 
 ## GITHUB STATS
+
 <p><img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13 GitHub Stats" /></p>
 
 <br>
