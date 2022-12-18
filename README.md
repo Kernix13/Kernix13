@@ -43,7 +43,7 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 ## MY EDUCATION & EXPERIENCE
 
-- B.S. Operations Management, Drexel Univeristy 1992
+- B.S. Operations Management, Drexel Univeristy
 - 12+ years experience as an Inventory & Forecast Planner/Analyst in the manufacturing, distribution, and retail industries.
 - The companies I worked for varied in size from $10M to $4B annual sales.
 - Started my pet services business in 2008. I had well over 200 clients and also hired 8 employees.
