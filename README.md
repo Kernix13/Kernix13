@@ -87,7 +87,7 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 <!-- <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="48" height="48" alt="markdown icon" title="Markdown" /></span> -->
 <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/markdown.svg" width="48" height="48" alt="markdown icon" title="Markdown" /></span>
 <!-- <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" width="48" height="48" alt="codepen icon" title="CodePen" /></span> -->
-<span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/codepen.svg" width="48" height="48" alt="codepen icon" title="CodePen" /></span>
+<span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/codepen.svg" width="40" height="40" alt="codepen icon" title="CodePen" /></span>
 <!-- <span><img src="" width="48" height="48" alt="html icon" title="Express.js" /></span> -->
 </p>
 
