@@ -6,8 +6,8 @@
 ![Twitter](https://img.shields.io/twitter/follow/jimkernicky?color=lightblue&label=Twitter&style=flat-square)
 
 
-![GitHub all releases](https://img.shields.io/github/downloads/Kernix13/Kernix13/total?style=flat-square)
-[![hits](https://hits.deltapapa.io/github/Kernix13/hits-badge.svg)](https://hits.deltapapa.io)
+<!-- ![GitHub all releases](https://img.shields.io/github/downloads/Kernix13/Kernix13/total?style=flat-square) -->
+<!-- [![hits](https://hits.deltapapa.io/github/Kernix13/hits-badge.svg)](https://hits.deltapapa.io) -->
 
 **<h1 align="center"><ins>JIM KERNICKY</ins></h1>**
 
@@ -114,7 +114,6 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs icon" title="Node.js" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql icon" title="MySQL" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb icon" title="MongoDB" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="48" height="48" alt="trello icon" title="Trello" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="express icon" title="Express.js" /></span>
 <!-- <span><img src="" width="48" height="48" alt="html icon" title="Express.js" /></span> -->
 </p>
