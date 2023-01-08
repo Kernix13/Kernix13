@@ -14,6 +14,8 @@
 
 ## ABOUT ME
 
+Testing highlights: ==highlighted words==
+
 I live in Springfield, Pennsylvania and and am learning various web languages and technologies with the goal of landing a Front End Developer job. I have loved learning all my life, and I have been studying web design and development the last 4+ years.
 
 I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _underscores_ as a starter template. You can check out that website at [Kernix Web Design](https://kernixwebdesign.com/). Also, take a look at my personal [portfolio page](https://kernixwebdesign.com/resume-portfolio.html), my online [Web Development Resume](https://kernixwebdesign.com/inventory-management-resume/), and the [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) in this repo.
