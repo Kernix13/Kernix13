@@ -63,7 +63,6 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 </a>
 <a href="https://twitter.com/jimkernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jimkernicky" height="27" width="36" />
 </a>
-<!-- <a href = "https://twitter.com/jimkernicky"><img src="https://img.icons8.com/fluent/30/000000/twitter.png" alt="jimkernicky"/></a> -->
 </p>
 
 ## LANGUAGES AND TOOLS
