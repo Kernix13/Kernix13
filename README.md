@@ -125,5 +125,3 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 ## GITHUB STATS
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13 GitHub Stats" /></p>
-
-<br>
