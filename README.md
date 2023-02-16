@@ -30,16 +30,16 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 - 👯 I’m looking to collaborate on **JS generated Guitar Chord SVGs**.
 
-- 🤝 I’m looking for help with [Keyboard layouts for different languages](https://kernixwebdesign.com/writer-assist.html).
+- 🤝 I’m looking for help with [Keyboard layouts for different languages](https://eloquent-pie-e9cd08.netlify.app/).
 
 - 💬 Ask me about camping, bushcraft, botany, guitar, music theory, and/or outdoor photography.
 
-## MY LATEST BLOG POSTS
+<!-- ## MY LATEST BLOG POSTS
 
 - [Learn JavaScript: String and Array Methods](https://kernixwebdesign.com/website/learn-javascript-string-array-methods/)
 - [Markdown Cheat Sheet for Beginners](https://kernixwebdesign.com/website/code/markdown-cheat-sheet-beginners/)
 - [18 Graphic Design Tips for Your Website](https://kernixwebdesign.com/website/18-graphic-design-tips-websites/)
-- [WordPress Recent Posts using a Custom Query](https://kernixwebdesign.com/website/code/wordpress-recent-posts-using-a-custom-query/)
+- [WordPress Recent Posts using a Custom Query](https://kernixwebdesign.com/website/code/wordpress-recent-posts-using-a-custom-query/) -->
 
 ## MY EDUCATION & EXPERIENCE
 
