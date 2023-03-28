@@ -4,7 +4,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13?style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Kernix13?style=flat-square)
 ![freeCodeCamp](https://img.shields.io/freecodecamp/points/fccb4a9d0f6-135f-4a94-97f5-795068269ca7?label=freeCodeCamp&style=flat-square)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjimkernicky)
+![Twitter Follow](https://img.shields.io/twitter/follow/jimkernicky?style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jimkernicky?style=social)
 
 <!-- ![GitHub all releases](https://img.shields.io/github/downloads/Kernix13/Kernix13/total?style=flat-square) -->
