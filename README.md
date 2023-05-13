@@ -27,7 +27,7 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 - &check; I’m currently planning a JavScript workspace designed for remote work (ask me about it).
 
-- 🌱 Next on the classroom chalkboard: **OOP, React projects, SASS**.
+- 🌱 Next on the classroom chalkboard: **TypeScript, OOP, React projects, SASS**.
 
 - 👯 I’m looking to collaborate on **JS generated Guitar Chord SVGs**.
 
@@ -82,19 +82,22 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 <p align="left">
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="git icon" title="Git" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm icon" title="NPM" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="figma icon" title="Figma" /></span>
+
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" width="48" height="48" alt="inkscape icon" title="Inkscape" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="48" height="48" alt="gimp icon" title="GIMP" /></span>
 <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/markdown.svg" width="48" height="48" alt="markdown icon" title="Markdown" /></span>
 <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/codepen.svg" width="40" height="40" alt="codepen icon" title="CodePen" /></span>
+
 </p>
 
 ### Experienced but not as strong as above:
 
 <p align="left">
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="Typescript icon" title="TypeScript" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="react icon" title="React" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass icon" title="SCSS" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="php icon" title="PHP" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="figma icon" title="Figma" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="jquery icon" title="jQuery" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="48" height="48" alt="webpack icon" title="Webpack" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40" height="40" alt="slack icon" title="Slack" /></span>
@@ -104,7 +107,7 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 </p>
 
 <!-- ### Limited experience with the following -->
-<!-- 
+<!--
 ### Familiar but less experience using:
 
 <p align="left">
