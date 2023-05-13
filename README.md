@@ -29,9 +29,9 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 - 🌱 Next on the classroom chalkboard: **TypeScript, OOP, React projects, SASS**.
 
-- 👯 I’m looking to collaborate on **JS generated Guitar Chord SVGs**.
+- 👯 I'm looking to collaborate on **JS generated Guitar Chord SVGs**.
 
-- 🤝 I’m looking for help with [Keyboard layouts for different languages]([https://eloquent-pie-e9cd08.netlify.app/](https://cool-travesseiro-9b6101.netlify.app/)).
+- 🤝 I'm looking for help with [Keyboard layouts for different languages](https://cool-travesseiro-9b6101.netlify.app/).
 
 - 💬 Ask me about camping, bushcraft, botany, guitar, music theory, and/or outdoor photography.
 
