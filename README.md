@@ -15,7 +15,7 @@
 
 ## ABOUT ME
 
-I live in Springfield, Pennsylvania and and am learning various web languages and technologies with the goal of landing a Front End Developer job. I have loved learning all my life, and I have been studying web design and development the last 4+ years.
+I live in Springfield, Pennsylvania and and am learning various web languages and technologies with the goal of landing a Web Design or Front End Developer job. I have loved learning all my life, and I have been studying web design and development the last 4+ years.
 
 I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _underscores_ as a starter template. Also, take a look at my personal [portfolio page](https://courageous-cuchufli-816711.netlify.app/) and the [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) in this repo.
 
@@ -23,11 +23,11 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 **Skills**: HTML / CSS / JavaScript / WordPress
 
-- &#10146; I’m currently taking a UI Design course from Gary Simon.
+- &#10146; I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon.
 
-- &check; I’m currently planning a JavScript workspace designed for remote work (ask me about it).
+- &check; I am currently converting my JavScript projects to TypeScript.
 
-- 🌱 Next on the classroom chalkboard: **TypeScript, OOP, React projects, SASS**.
+- 🌱 Next on the classroom chalkboard: **TypeScript, OOP, React, SASS**.
 
 - 👯 I'm looking to collaborate on **JS generated Guitar Chord SVGs**.
 
