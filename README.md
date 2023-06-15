@@ -93,14 +93,16 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 <p align="left">
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="Typescript icon" title="TypeScript" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="react icon" title="React" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="sass icon" title="Express.js" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="sass icon" title="MongoDB" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass icon" title="SCSS" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="48" height="48" alt="photoshop icon" title="Photoshop" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="figma icon" title="Figma" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest" /></span>
+<!-- <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest" /></span> -->
 </p>
 <p align="left">
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="php icon" title="PHP" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="jquery icon" title="jQuery" /></span>
+<!-- <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="jquery icon" title="jQuery" /></span> -->
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="48" height="48" alt="webpack icon" title="Webpack" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40" height="40" alt="slack icon" title="Slack" /></span>
 <span><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="postman icon" title="Postman" /></span>
@@ -108,6 +110,8 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 </p>
 <!-- <span><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="48" height="48" alt="Electron" title="Electron" /></span> -->
 </p>
+
+<!-- https://github.com/devicons/devicon -->
 
 ## GITHUB REPO LANGUAGES
 
