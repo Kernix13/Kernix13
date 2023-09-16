@@ -15,7 +15,7 @@
 
 ## ABOUT ME
 
-I live in Springfield, Pennsylvania and and am learning various web languages and technologies with the goal of landing a Web Design or Front End Developer job. I have loved learning all my life, and I have been studying web design and development the last 4+ years.
+I live in Springfield, Pennsylvania, and am learning various web languages and technologies with the goal of landing a Web Design or Front End Developer job. I have loved learning all my life, and I have been studying web design and development for the last 4+ years.
 
 I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _underscores_ as a starter template. Also, take a look at my personal [portfolio page](https://courageous-cuchufli-816711.netlify.app/) and the [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) in this repo.
 
@@ -44,10 +44,10 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 ## MY EDUCATION & EXPERIENCE
 
-- B.S. Operations Management, Drexel Univeristy 1992
+- B.S. Operations Management, Drexel University 1992
 - 12+ years experience as an Inventory & Forecast Planner/Analyst in the manufacturing, distribution, and retail industries.
 - The companies I worked for varied in size from $10M to $4B annual sales.
-- Started my pet services business in 2008. I had well over 200 clients and also hired 8 employees.
+- I started my pet services business in 2008. I had well over 200 clients and also hired 8 employees.
 - Currently taking courses on Udemy and [freeCodeCamp](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7).
 - freeCodeCamp certifications:
   1. Responsive Web Design (issued July 2, 2021),
