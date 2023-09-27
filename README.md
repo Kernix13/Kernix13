@@ -21,6 +21,8 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 Continue reading about me in this profile or take a look at my personal [portfolio page](https://courageous-cuchufli-816711.netlify.app/) or download a [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) from this repo.
 
+<h2 align="center"><em>💬 Ask me about camping, bushcraft, botany, guitar, music theory, or outdoor photography</em>.</h2>
+
 <br>
 
 ## WHAT AM I WORKING ON?
@@ -40,8 +42,6 @@ Continue reading about me in this profile or take a look at my personal [portfol
 &#10146; I'm looking to collaborate with over devs on **_JS generated guitar chord SVGs_** which I will use in the guitar app mentioned above.
 
 &#10146; I'm looking for help with keyboard layouts for different languages to improve WriterAssist.
-
-<h3 align="center"><em>💬 Ask me about camping, bushcraft, botany, guitar, music theory, or outdoor photography</em>.</h3>
 
 <!-- ## MY LATEST BLOG POSTS
 
