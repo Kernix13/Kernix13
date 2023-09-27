@@ -33,7 +33,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 &#10146; I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon.
 
-&#10146; I converted 1 JavScript project to TypeScript ([WriterAssist](https://github.com/Kernix13/WriterAssist)) and will be doing the same for my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project.
+&#10146; I converted one JavaScript project to TypeScript ([WriterAssist](https://github.com/Kernix13/WriterAssist)) and will be doing the same for my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project.
 
 &#10146; Recently completed a PHP/Laravel app ([PostNChat](https://github.com/Kernix13/php-laravel-postnchat)) - Laravel is impressive!
 
