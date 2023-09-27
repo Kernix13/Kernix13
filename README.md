@@ -37,7 +37,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 &#10146; Recently completed a PHP/Laravel app ([PostNChat](https://github.com/Kernix13/php-laravel-postnchat)) - Laravel is impressive!
 
-&#10146; Next to-do items: Analyze my portfolio projects from a functional POV so that I can more easily build projects/apps in the future.
+&#10146; **_Next to-do items_**: Analyze my portfolio projects from a functional POV so that I can more easily build projects/apps in the future.
 
 <br>
 
