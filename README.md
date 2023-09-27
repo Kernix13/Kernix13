@@ -15,15 +15,15 @@
 
 ## ABOUT ME
 
-I live in Springfield, Pennsylvania, and am constantly learning various front-end languages and technologies with the goal of landing a Web Design or Front-End Developer job. I have loved learning all my life, and I have been studying web design and development since 2020.
+I live in Springfield, Pennsylvania, and am constantly learning various front-end languages and technologies with the goal of landing a Web Design or Front-End Developer job. I have loved learning all my life, and I have been studying WordPress, web design, and web development since 2020.
 
 I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _[underscores](https://underscores.me/)_ as a starter template.
 
-Continue reading about me in this profile or take a look at my personal [portfolio page](https://courageous-cuchufli-816711.netlify.app/) or download a [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) in this repo.
-
-## WHAT AM I WORKING ON?
+Continue reading about me in this profile or take a look at my personal [portfolio page](https://courageous-cuchufli-816711.netlify.app/) or download a [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) from this repo.
 
 <br>
+
+## WHAT AM I WORKING ON?
 
 &#10146; I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon.
 
@@ -33,13 +33,19 @@ Continue reading about me in this profile or take a look at my personal [portfol
 
 &#10146; Next to-do items: Analyze my portfolio projects from a functional POV so that I can more easily built projects/apps in the future.
 
+<br>
+
 ## COLLABORATION IDEAS:
 
 &#10146; I'm looking to collaborate with over devs on **_JS generated guitar chord SVGs_** which I will use in the guitar app mentioned above.
 
 &#10146; I'm looking for help with keyboard layouts for different languages to improve WriterAssist.
 
-> ## 💬 Ask me about camping, bushcraft, botany, guitar, music theory, or outdoor photography.
+<br>
+
+<h3><blockquote align="center">💬 Ask me about camping, bushcraft, botany, guitar, music theory, or outdoor photography.</blockquote></h3>
+
+<br>
 
 <!-- ## MY LATEST BLOG POSTS
 
