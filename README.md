@@ -15,25 +15,31 @@
 
 ## ABOUT ME
 
-I live in Springfield, Pennsylvania, and am learning various web languages and technologies with the goal of landing a Web Design or Front End Developer job. I have loved learning all my life, and I have been studying web design and development for the last 4+ years.
+I live in Springfield, Pennsylvania, and am constantly learning various front-end languages and technologies with the goal of landing a Web Design or Front-End Developer job. I have loved learning all my life, and I have been studying web design and development since 2020.
 
-I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _underscores_ as a starter template. Also, take a look at my personal [portfolio page](https://courageous-cuchufli-816711.netlify.app/) and the [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) in this repo.
+I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _[underscores](https://underscores.me/)_ as a starter template.
+
+Continue reading about me in this profile or take a look at my personal [portfolio page](https://courageous-cuchufli-816711.netlify.app/) or download a [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) in this repo.
 
 ## WHAT AM I WORKING ON?
 
-**Skills**: HTML / CSS / JavaScript / WordPress
+<br>
 
-- &#10146; I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon.
+&#10146; I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon.
 
-- &check; I am currently converting my JavScript projects to TypeScript.
+&#10146; I converted 1 JavScript project to TypeScript ([WriterAssist](https://github.com/Kernix13/WriterAssist)) and will be doing the same for my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project.
 
-- 🌱 Next on the classroom chalkboard: **TypeScript, OOP, React, SASS**.
+&#10146; Recently completed a PHP/Laravel app ([PostNChat](https://github.com/Kernix13/php-laravel-postnchat)) - Laravel is impressive!
 
-- 👯 I'm looking to collaborate on **JS generated Guitar Chord SVGs**.
+&#10146; Next to-do items: Analyze my portfolio projects from a functional POV so that I can more easily built projects/apps in the future.
 
-- 🤝 I'm looking for help with [Keyboard layouts for different languages](https://cool-travesseiro-9b6101.netlify.app/).
+## COLLABORATION IDEAS:
 
-- 💬 Ask me about camping, bushcraft, botany, guitar, music theory, and/or outdoor photography.
+&#10146; I'm looking to collaborate with over devs on **_JS generated guitar chord SVGs_** which I will use in the guitar app mentioned above.
+
+&#10146; I'm looking for help with keyboard layouts for different languages to improve WriterAssist.
+
+> ## 💬 Ask me about camping, bushcraft, botany, guitar, music theory, or outdoor photography.
 
 <!-- ## MY LATEST BLOG POSTS
 
@@ -47,7 +53,7 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 - B.S. Operations Management, Drexel University 1992
 - 12+ years experience as an Inventory & Forecast Planner/Analyst in the manufacturing, distribution, and retail industries.
 - The companies I worked for varied in size from $10M to $4B annual sales.
-- I started my pet services business in 2008. I had well over 200 clients and also hired 8 employees.
+- I started my pet services business in 2008 wuth over 200 clients in that time and I also hired 7 employees.
 - Currently taking courses on Udemy and [freeCodeCamp](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7).
 - freeCodeCamp certifications:
   1. Responsive Web Design (issued July 2, 2021),
