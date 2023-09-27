@@ -43,7 +43,7 @@ Continue reading about me in this profile or take a look at my personal [portfol
 
 <br>
 
-<h3><blockquote align="center">💬 Ask me about camping, bushcraft, botany, guitar, music theory, or outdoor photography.</blockquote></h3>
+<h3 align="center">💬 <em>Ask me about camping, bushcraft, botany, guitar, music theory, or outdoor photography</em>.</h3>
 
 <br>
 
