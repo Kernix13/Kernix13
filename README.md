@@ -21,7 +21,11 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 Continue reading about me in this profile or take a look at my personal [portfolio page](https://courageous-cuchufli-816711.netlify.app/) or download a [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) from this repo.
 
+<br>
+
+<p align="center">..................................</p>
 <h3 align="center"><em>💬 Ask me about camping, bushcraft, botany, guitar, music theory, or outdoor photography</em>.</h3>
+<p align="center">..................................</p>
 
 <br>
 
