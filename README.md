@@ -54,6 +54,8 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 - [18 Graphic Design Tips for Your Website](https://kernixwebdesign.com/website/18-graphic-design-tips-websites/)
 - [WordPress Recent Posts using a Custom Query](https://kernixwebdesign.com/website/code/wordpress-recent-posts-using-a-custom-query/) -->
 
+<br>
+
 ## MY EDUCATION & EXPERIENCE
 
 - B.S. Operations Management, Drexel University 1992
@@ -66,6 +68,8 @@ Continue reading about me in this profile, take a look at my personal [portfolio
   2. JavaScript Algorithms and Data Structures (issued March 30, 2022)
 - I had a short-lived job as a **Topic Creator** with _The HOTH_, and I helped [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/) with their WordPress _issues_.
 
+<br>
+
 ### SEND ME A MESSAGE
 
 <p align="left">
@@ -77,6 +81,8 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 <a href="https://twitter.com/jimkernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jimkernicky" height="27" width="36" />
 </a>
 </p>
+
+<br>
 
 ## LANGUAGES AND TOOLS
 
