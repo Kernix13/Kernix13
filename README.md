@@ -41,11 +41,7 @@ Continue reading about me in this profile or take a look at my personal [portfol
 
 &#10146; I'm looking for help with keyboard layouts for different languages to improve WriterAssist.
 
-<br>
-
-<h3 align="center">💬 <em>Ask me about camping, bushcraft, botany, guitar, music theory, or outdoor photography</em>.</h3>
-
-<br>
+<h3 align="center"><em>💬 Ask me about camping, bushcraft, botany, guitar, music theory, or outdoor photography</em>.</h3>
 
 <!-- ## MY LATEST BLOG POSTS
 
