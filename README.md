@@ -19,7 +19,7 @@ I live in Springfield, Pennsylvania, and am constantly learning various front-en
 
 I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _[underscores](https://underscores.me/)_ as a starter template.
 
-Continue reading about me in this profile or take a look at my personal [portfolio page](https://courageous-cuchufli-816711.netlify.app/) or download a [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) from this repo.
+Continue reading about me in this profile, take a look at my personal [portfolio page](https://courageous-cuchufli-816711.netlify.app/) or download a [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) from this repo.
 
 <br>
 
@@ -37,7 +37,7 @@ Continue reading about me in this profile or take a look at my personal [portfol
 
 &#10146; Recently completed a PHP/Laravel app ([PostNChat](https://github.com/Kernix13/php-laravel-postnchat)) - Laravel is impressive!
 
-&#10146; Next to-do items: Analyze my portfolio projects from a functional POV so that I can more easily built projects/apps in the future.
+&#10146; Next to-do items: Analyze my portfolio projects from a functional POV so that I can more easily build projects/apps in the future.
 
 <br>
 
@@ -59,12 +59,12 @@ Continue reading about me in this profile or take a look at my personal [portfol
 - B.S. Operations Management, Drexel University 1992
 - 12+ years experience as an Inventory & Forecast Planner/Analyst in the manufacturing, distribution, and retail industries.
 - The companies I worked for varied in size from $10M to $4B annual sales.
-- I started my pet services business in 2008 wuth over 200 clients in that time and I also hired 7 employees.
+- I started my pet services business in 2008 servicing 200+ clients in that time and also hiring 7 employees.
 - Currently taking courses on Udemy and [freeCodeCamp](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7).
 - freeCodeCamp certifications:
   1. Responsive Web Design (issued July 2, 2021),
   2. JavaScript Algorithms and Data Structures (issued March 30, 2022)
-- I had a short-lived job as a **Topic Creator** with _The HOTH_, and helping [Two Average Gamers](https://twoaveragegamers.com/) with their WordPress _issues_.
+- I had a short-lived job as a **Topic Creator** with _The HOTH_, and I helped [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/) with their WordPress _issues_.
 
 ### SEND ME A MESSAGE
 
