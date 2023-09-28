@@ -9,7 +9,7 @@
 <!-- ![GitHub all releases](https://img.shields.io/github/downloads/Kernix13/Kernix13/total?style=flat-square) -->
 <!-- [![hits](https://hits.deltapapa.io/github/Kernix13/hits-badge.svg)](https://hits.deltapapa.io) -->
 
-**<h1 align="center"><ins>JIM KERNICKY</ins></h1>**
+**<h1 align="center"><ins>JAMES KERNICKY</ins></h1>**
 
 <img src="https://github.com/Kernix13/Kernix13/blob/main/circle-profile-pic.png" >
 
