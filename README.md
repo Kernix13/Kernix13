@@ -23,7 +23,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 <br>
 
-<p align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+<p align="center">––––––––––––––––––––––––––––––––––</p>
 <h3 align="center"><em>💬 Ask me about camping, bushcraft, botany, guitar, music theory, or outdoor photography</em>.</h3>
 <p align="center">––––––––––––––––––––––––––––––––––</p>
 
@@ -31,17 +31,13 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 ## WHAT AM I WORKING ON?
 
-✅ I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon.
+➡️ I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon.
 
-✅➡️ I converted one JavaScript project to TypeScript ([WriterAssist](https://github.com/Kernix13/WriterAssist)) and will be doing the same for my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project.
+➡️ I converted one JavaScript project to TypeScript ([WriterAssist](https://github.com/Kernix13/WriterAssist)) and will be doing the same for my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project.
 
-✅ ➡️ Recently completed a PHP/Laravel app ([PostNChat](https://github.com/Kernix13/php-laravel-postnchat)) - Laravel is impressive! I need to dive deeper into PHP!
+➡️ Recently completed a PHP/Laravel app ([PostNChat](https://github.com/Kernix13/php-laravel-postnchat)) - Laravel is impressive! I need to dive deeper into PHP!
 
 ➡️ **_Next to-do items_**: Analyze my portfolio projects from a functional POV so that I can more easily build projects/apps in the future.
-
-&#9728; &#9734; &#9733; &#10003;&#10036; &#10035; &#10165;
-
-➡️ ✅ 📌
 
 <br>
 
