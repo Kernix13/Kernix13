@@ -17,7 +17,7 @@
 
 I live in Springfield, Pennsylvania, and am constantly learning various front-end languages and technologies with the goal of landing a Web Design or Front-End Developer job. I have loved learning all my life, and I have been studying WordPress, web design, and web development since 2020.
 
-I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _[underscores](https://underscores.me/)_ as a starter template. Although I like WordPress and what it has to offer, I find JavaScript far more interesting and fun to write.
+I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _[underscores](https://underscores.me/)_ as a starter template. Although I like WordPress and what it has to offer for small businesses, I love writing JavaScript and CSS to bring my project ideas to life.
 
 Continue reading about me in this profile, take a look at my personal [portfolio page](https://courageous-cuchufli-816711.netlify.app/) or download a [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) from this repo.
 
