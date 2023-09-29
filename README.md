@@ -2,7 +2,7 @@
 <!-- ![Jim's GitHub Banner](./assets/Ridleygold_1280.jpg) -->
 <!-- ![Jim's GitHub Banner](./assets/GitHubAlchemy1.jpg) -->
 
-![Jim's GitHub Banner](./assets/Ridleygold_1500.jpg)
+![Jim's GitHub Banner](./assets/GitHubBanner500.jpg)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13?style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/Kernix13?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jimkernicky?style=social)
