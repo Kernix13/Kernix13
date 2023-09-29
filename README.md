@@ -1,6 +1,6 @@
 <!-- [![Jim's GitHub Banner](./assets/GitHubBanner500.jpg)](https://kernixwebdesign.com/) -->
 
-[![Jim's GitHub Banner](./assets/GitHubAlchemy1.jpg)](https://kernixwebdesign.com/resume-portfolio.html)
+![Jim's GitHub Banner](./assets/GitHubAlchemy1.jpg)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13?style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/Kernix13?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jimkernicky?style=social)
