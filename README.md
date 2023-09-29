@@ -24,20 +24,20 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 <br>
 
 <p align="center">––––––––––––––––––––––––––––––––––</p>
-<h3 align="center"><em>💬 Ask me about camping, bushcraft, botany, guitar, music theory, or outdoor photography</em>.</h3>
+<h3 align="center"><em>💬 Ask me about camping, bushcraft, orienteering, botany, guitar, music theory, or outdoor photography</em>.</h3>
 <p align="center">––––––––––––––––––––––––––––––––––</p>
 
 <br>
 
 ## WHAT AM I WORKING ON?
 
-➡️ I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon.
+✅ I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon.
 
-➡️ I converted one JavaScript project to TypeScript ([WriterAssist](https://github.com/Kernix13/WriterAssist)) and will be doing the same for my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project.
+✅ I converted one JavaScript project to TypeScript ([WriterAssist](https://github.com/Kernix13/WriterAssist)) and will be doing the same for my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project.
 
-➡️ Recently completed a PHP/Laravel app ([PostNChat](https://github.com/Kernix13/php-laravel-postnchat)) - Laravel is impressive! I need to dive deeper into PHP!
+✅ Recently completed a PHP/Laravel app ([PostNChat](https://github.com/Kernix13/php-laravel-postnchat)) - Laravel is impressive! I need to dive deeper into PHP!
 
-➡️ **_Next to-do items_**: Analyze my portfolio projects from a functional POV so that I can more easily build projects/apps in the future.
+✅ **_Next to-do items_**: Analyze my portfolio projects from a functional POV so that I can more easily build projects/apps in the future.
 
 <br>
 
@@ -104,7 +104,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="48" height="48" alt="gimp icon" title="GIMP" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40" height="40" alt="slack icon" title="Slack" /></span>
 <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/markdown.svg" width="48" height="48" alt="markdown icon" title="Markdown" /></span>
-<span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/codepen.svg" width="40" height="40" alt="codepen icon" title="CodePen" /></span>
+<!-- <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/codepen.svg" width="40" height="40" alt="codepen icon" title="CodePen" /></span> -->
 </p>
 
 ### Experienced but not as strong as above
