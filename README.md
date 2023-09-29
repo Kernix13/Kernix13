@@ -43,7 +43,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 <br>
 
-## COLLABORATION IDEAS:
+## COLLABORATION IDEAS
 
 📌 I'm looking to collaborate with over devs on **_JS generated guitar chord SVGs_** which I will use in the guitar app mentioned above.
 
