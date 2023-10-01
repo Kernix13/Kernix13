@@ -70,29 +70,6 @@ Continue reading about me in this profile, take a look at my personal [portfolio
   2. JavaScript Algorithms and Data Structures (issued March 30, 2022)
 - I had a short-lived job as a **Topic Creator** with _The HOTH_, and I helped [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/) with their WordPress _issues_.
 
-<br>
-
-## CLIENT TESTIMONIALS
-
-| Aaron S. | Julian A., | Susan K. |
-| :------: | :--------: | :------: |
-| [campingventureshub.com](https://campingventureshub.com/) | [twoaveragegamers.com](https://twoaveragegamers.com/) | [propmeup.net](https://propmeup.net/) |
-|   "_Jim was very knowledgeable with WordPress and completed all the goals and was in communication with me the entire time. Highly recommend using him, and I will be using his services again in the future._"      |   "_It’s our absolute pleasure to recommend Jim Kernicky for a Web Developer role. He worked with us at Two Average Gamers as our WordPress Web Developer since December 2021 and fully optimized our website for performance..._"         | "_Jim assisted PropMEUP! with the completion of our WordPress website. He was thorough, made valuable suggestions, was patient in training, and was always available to provide first-class service!_"       |
-
-<br>
-
-## SEND ME A MESSAGE
-
-<p align="left">
-<a href="https://linkedin.com/in/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-kernicky" height="24" width="32" /></a>
-<a href="https://fb.com/jim.kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jim.kernicky" height="24" width="32" /></a>
-<a href="mailto:jimkernicky@gmail.com">
-  <img align="center" width="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<a href="https://twitter.com/jimkernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jimkernicky" height="27" width="36" />
-</a>
-</p>
-
 <be>
 
 ## LANGUAGES AND TOOLS
@@ -139,6 +116,31 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 </p>
 
 <!-- https://github.com/devicons/devicon -->
+
+<br>
+
+## CLIENT TESTIMONIALS
+
+| Aaron S. | Julian A., | Susan K. |
+| :------: | :--------: | :------: |
+| [campingventureshub.com](https://campingventureshub.com/) | [twoaveragegamers.com](https://twoaveragegamers.com/) | [propmeup.net](https://propmeup.net/) |
+|   "_Jim was very knowledgeable with WordPress and completed all the goals and was in communication with me the entire time. Highly recommend using him, and I will be using his services again in the future._"      |   "_It’s our absolute pleasure to recommend Jim Kernicky for a Web Developer role. He worked with us at Two Average Gamers as our WordPress Web Developer since December 2021 and fully optimized our website for performance..._"         | "_Jim assisted PropMEUP! with the completion of our WordPress website. He was thorough, made valuable suggestions, was patient in training, and was always available to provide first-class service!_"       |
+
+<br>
+
+## SEND ME A MESSAGE
+
+<p align="left">
+<a href="https://linkedin.com/in/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-kernicky" height="24" width="32" /></a>
+<a href="https://fb.com/jim.kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jim.kernicky" height="24" width="32" /></a>
+<a href="mailto:jimkernicky@gmail.com">
+  <img align="center" width="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+<a href="https://twitter.com/jimkernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jimkernicky" height="27" width="36" />
+</a>
+</p>
+
+<br>
 
 ## GITHUB REPO LANGUAGES
 
