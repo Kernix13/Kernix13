@@ -70,7 +70,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
   2. JavaScript Algorithms and Data Structures (issued March 30, 2022)
 - I had a short-lived job as a **Topic Creator** with _The HOTH_, and I helped [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/) with their WordPress _issues_.
 
-<be>
+<br>
 
 ## CLIENT TESTIMONIALS
 
