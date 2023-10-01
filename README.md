@@ -84,7 +84,15 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 </a>
 </p>
 
-<br>
+<be>
+  
+## CLIENT TESTIMONIALS
+
+| Aaron S. | Julian A., | Susan K. |
+| :------: | :--------: | :------: |
+| [campingventureshub.com](https://campingventureshub.com/) | [twoaveragegamers.com](https://twoaveragegamers.com/) | [propmeup.net](https://propmeup.net/) |
+|   "_Jim was very knowledgeable with WordPress and completed all the goals and was in communication with me the entire time. Highly recommend using him, I will be using his services again in the future. _"      |   "_It’s our absolute pleasure to recommend Jim Kernicky for a Web Developer role. He worked with us at Two Average Gamers as our WordPress Web Developer since December 2021 and fully optimized our website for performance..._"         | "_Jim assisted PropMEUP! with the completion of our WordPress website. He was thorough, made valuable suggestions, was patient in training, and was always available to provide first-class service!_"       |
+
 
 ## LANGUAGES AND TOOLS
 
