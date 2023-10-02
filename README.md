@@ -17,7 +17,7 @@
 
 ## ABOUT ME
 
-I live in Springfield, Pennsylvania, and am constantly learning various front-end languages and technologies with the goal of landing a Web Design or Front-End Developer job. I have loved learning all my life, and I have been studying WordPress, web design, and web development since 2020.
+I live in Springfield, Pennsylvania, and have been building projects and apps using front-end and back-end languages and technologies with the goal of landing a Web Design or Front-End Developer job. I have loved learning all my life, and I have been studying web design, and web development since 2020.
 
 I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _[underscores](https://underscores.me/)_ as a starter template. Although I like WordPress and what it has to offer for small businesses, I love writing JavaScript and CSS to bring my project ideas to life.
 
@@ -37,9 +37,9 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 ✅ I converted one JavaScript project to TypeScript ([WriterAssist](https://github.com/Kernix13/WriterAssist)) and will be doing the same for my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project.
 
-✅ Recently completed a PHP/Laravel app ([PostNChat](https://github.com/Kernix13/php-laravel-postnchat)) - Laravel is impressive! I need to dive deeper into PHP!
+✅ Recently completed a PHP/Laravel app ([PostNChat](https://github.com/Kernix13/php-laravel-postnchat)). Laravel is impressive and I need to dive deeper into PHP.
 
-✅ **_Next to-do items_**: Analyze my portfolio projects from a functional POV so that I can more easily build projects/apps in the future.
+✅ **_Next to-do items_**: Analyze my portfolio projects from a functional and structural point-of-view so that building projects/apps in the future is easier and faster.
 
 <br>
 
@@ -61,10 +61,9 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 ## MY EDUCATION & EXPERIENCE
 
 - B.S. Operations Management, Drexel University 1992
-- 12+ years experience as an Inventory & Forecast Planner/Analyst in the manufacturing, distribution, and retail industries.
-- The companies I worked for varied in size from $10M to $4B annual sales.
+- 12+ years as an Inventory and forecast Planner/Analyst for companies that ranged in size from $10M to $4B annual sales in the manufacturing, distribution, and retail markets.
 - I started my pet services business in 2008 servicing 200+ clients in that time and also hiring 7 employees.
-- Currently taking courses on Udemy and [freeCodeCamp](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7).
+- Currently taking courses on Udemy and [freeCodeCamp](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7) and from Gary Simon and Brad Traversy.
 - freeCodeCamp certifications:
   1. Responsive Web Design (issued July 2, 2021),
   2. JavaScript Algorithms and Data Structures (issued March 30, 2022)
