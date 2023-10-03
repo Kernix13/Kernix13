@@ -82,7 +82,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 - 12+ years as an Inventory and forecast Planner/Analyst for companies that ranged in size from $10M to $4B annual sales in the manufacturing, distribution, and retail markets.
 - I started my pet services business in 2008 servicing 200+ clients in that time and also hiring 7 employees.
 - Remote position as a **Topic Creator** with _The HOTH_
-- Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/) where I helped with their WordPress _issues_.
+- Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/) where I helped them with their WordPress _issues_.
 
 <br>
 
