@@ -60,9 +60,13 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 ## MY EDUCATION & EXPERIENCE
 
+### Education
+
 - B.S. Operations Management, Drexel University 1992
-- 12+ years as an Inventory and forecast Planner/Analyst for companies that ranged in size from $10M to $4B annual sales in the manufacturing, distribution, and retail markets.
-- I started my pet services business in 2008 servicing 200+ clients in that time and also hiring 7 employees.
+- [freeCodeCamp certifications](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7):
+  1. Responsive Web Design (issued July 2, 2021),
+  2. JavaScript Algorithms and Data Structures (issued March 30, 2022)
+- Currently taking _Foundational C#_ on Microsoft Learn via freeCodeCamp
 - Udemy courses completed:
   1. [The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-10fd2952-c4dd-4e6f-8028-76da9cddf5a2/)
   1. [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/certificate/UC-aeae04f7-40dc-4034-8710-716534007201/)
@@ -72,11 +76,12 @@ Continue reading about me in this profile, take a look at my personal [portfolio
   1. [MySQL For Beginners](https://www.udemy.com/certificate/UC-e935b4b7-d8b4-4ecc-ae47-8406aadc6c59/)
   1. [Learn Laravel: A Guided Path For Beginners](https://www.udemy.com/certificate/UC-482bb2e8-6ca0-427a-82b1-b30ed44d8d6c/)
   1. Other courses partially completed: React, React Front to Back, The Modern JavaScript Bootcamp 2022, Learn Full-Stack JavaScript, Become a WordPress Developer, ...
-- Currently taking _Foundational C#_ on Microsoft Learn via freeCodeCamp
-- [freeCodeCamp certifications](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7):
-  1. Responsive Web Design (issued July 2, 2021),
-  2. JavaScript Algorithms and Data Structures (issued March 30, 2022)
-- Remote position as a **Topic Creator** with _The HOTH_, and I
+
+### Experience
+
+- 12+ years as an Inventory and forecast Planner/Analyst for companies that ranged in size from $10M to $4B annual sales in the manufacturing, distribution, and retail markets.
+- I started my pet services business in 2008 servicing 200+ clients in that time and also hiring 7 employees.
+- Remote position as a **Topic Creator** with _The HOTH_
 - Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/) where I helped with their WordPress _issues_.
 
 <br>
