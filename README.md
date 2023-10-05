@@ -80,11 +80,16 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 ### Experience
 
 - 12+ years as an Inventory and Forecast Planner/Analyst in the manufacturing, distribution, and retail markets.
-  - Responsibilities included using MS Excel and Access, and writing SAS programs for data analysis.
   - The companies I worked for ranged from $10M to $4B annual sales.
-  - Daily & weekly communication with managers and co-workers from other departments and our vendors.
-- I started my pet services business in 2008 servicing 200+ clients in that time and also hiring 7 employees.
-- Remote position as a **Topic Creator** with _The HOTH_
+  - Daily & weekly communication with managers and co-workers from other departments and with our vendors.
+  - Responsibilities included using MS Excel and Access, and writing SAS programs for data analysis.
+- I started my pet services business in 2008 servicing 200+ clients in that time.
+  - Built my website with Dreamweaver in 2009, and converted it to WordPress in 2018.
+  - Wrote 85+ pages and posts with optimized images and on-page SEO.
+  - Interviewed and hired 7 employees.
+- Remote position as a **Topic Creator** with _The HOTH_.
+  - Researched the best SEO keyword phrases and related phrases for the client.
+  - Wrote the SEO title and Meta Description used by the Writers.
 - Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/) where I helped them with their WordPress _issues_.
 - Two gigs on Fiverr (my [Fiverr profile](https://www.fiverr.com/jimkernicky?public_mode=true)):
   - First: editing template files for a site built with a WordPress block theme.
