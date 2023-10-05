@@ -90,7 +90,9 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 - Remote position as a **Topic Creator** with _The HOTH_.
   - Researched the best SEO keyword phrases and related phrases for the client.
   - Wrote the SEO title and Meta Description used by the Writers.
-- Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/) where I helped them with their WordPress _issues_.
+- Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/):
+  - Improved the performance score for Two Average Gamers from 42% to 71%; wrote the 301 redirects to be added to their .htaccess file.
+  - Finished an Elementor site for propMeup and taught the site owner on how to use Elementor and edit the page content.
 - Two gigs on Fiverr (my [Fiverr profile](https://www.fiverr.com/jimkernicky?public_mode=true)):
   - First: editing template files for a site built with a WordPress block theme.
   - Second: converting 7 tables from 2 PDF files to HTML `<table>` elements.
