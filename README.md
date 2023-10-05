@@ -87,8 +87,8 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 - Remote position as a **Topic Creator** with _The HOTH_
 - Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/) where I helped them with their WordPress _issues_.
 - Two gigs on Fiverr (see my [Fiverr profile](https://www.fiverr.com/jimkernicky?public_mode=true)):
-  - The first was finishing a site built with a WordPress block theme.
-  - The second gig was converting tables from PDF files to HTML.
+  - First: editing template files for a site built with a WordPress block theme.
+  - Second: converting 7 tables from PDF files to HTML syntax using `rowspan` and `colspan`.
 
 <br>
 
