@@ -88,7 +88,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 - Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/) where I helped them with their WordPress _issues_.
 - Two gigs on Fiverr (see my [Fiverr profile](https://www.fiverr.com/jimkernicky?public_mode=true)):
   - First: editing template files for a site built with a WordPress block theme.
-  - Second: converting 7 tables from PDF files to HTML syntax using `rowspan` and `colspan`.
+  - Second: converting 7 tables from 2 PDF files to HTML `<table>` elements.
 
 <br>
 
