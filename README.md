@@ -92,8 +92,8 @@ Continue reading about me in this profile, take a look at my personal [portfolio
   - **Two Average Gamers**: Increased Lighthouse score from ~43% to ~71%; wrote 301 redirects for the .htaccess file.
   - **propMeup**: Finished the website and taught the site owner via Slack Huddles how to edit page content using Elementor.
 - Two clients on Fiverr (my [Fiverr profile](https://www.fiverr.com/jimkernicky?public_mode=true)):
-  - Fiverr Client #1: editing template files for a site built with a WordPress block theme.
-  - Fiverr Client #2: converting 7 tables from 2 PDF files to HTML `<table>` elements.
+  - Fiverr Client #1: Edited template files for a site built with a WordPress block theme.
+  - Fiverr Client #2: Converted 7 tables from 2 PDF files into HTML `<table>` elements.
 
 <br>
 
