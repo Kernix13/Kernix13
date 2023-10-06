@@ -80,8 +80,8 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 ### Experience
 
 - 12+ years as an Inventory Planner/Analyst for companies ranging from $10M to $4B in annual sales.
-  - Daily & weekly communication with managers and co-workers from other departments and with our vendors.
   - Responsibilities included using MS Excel and Access, and writing SAS programs for data analysis.
+  - Daily & weekly communication with managers and co-workers from other departments and with our vendors.
 - I started my pet services business in 2008 servicing 200+ clients and hiring 7 employees.
   - Built my website with Dreamweaver in 2009, and converted it to WordPress in 2018.
   - Wrote 85+ pages and posts with optimized images and on-page SEO.
@@ -90,10 +90,10 @@ Continue reading about me in this profile, take a look at my personal [portfolio
   - Wrote the SEO title and Meta Description used by the Writers.
 - Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/):
   - **Two Average Gamers**: Increased Lighthouse score from ~43% to ~71%; wrote 301 redirects for the .htaccess file.
-  - **propMeup**: Finished the website and taught the site owner how to edit page content using Elementor.
-- Two gigs on Fiverr (my [Fiverr profile](https://www.fiverr.com/jimkernicky?public_mode=true)):
-  - First: editing template files for a site built with a WordPress block theme.
-  - Second: converting 7 tables from 2 PDF files to HTML `<table>` elements.
+  - **propMeup**: Finished the website and taught the site owner via Slack Huddles how to edit page content using Elementor.
+- Two clients on Fiverr (my [Fiverr profile](https://www.fiverr.com/jimkernicky?public_mode=true)):
+  - Fiverr Client #1: editing template files for a site built with a WordPress block theme.
+  - Fiverr Client #2: converting 7 tables from 2 PDF files to HTML `<table>` elements.
 
 <br>
 
