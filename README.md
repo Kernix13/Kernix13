@@ -79,14 +79,12 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 ### Experience
 
-- 12+ years as an Inventory and Forecast Planner/Analyst in the manufacturing, distribution, and retail markets.
-  - The companies I worked for ranged from $10M to $4B annual sales.
+- 12+ years as an Inventory Planner/Analyst for companies ranging from $10 to #4B in annual sales.
   - Daily & weekly communication with managers and co-workers from other departments and with our vendors.
   - Responsibilities included using MS Excel and Access, and writing SAS programs for data analysis.
-- I started my pet services business in 2008 servicing 200+ clients in that time.
+- I started my pet services business in 2008 servicing 200+ clients and hiring 7 employees.
   - Built my website with Dreamweaver in 2009, and converted it to WordPress in 2018.
   - Wrote 85+ pages and posts with optimized images and on-page SEO.
-  - Interviewed and hired 7 employees.
 - Remote position as a **Topic Creator** with _The HOTH_.
   - Researched the best SEO keyword phrases and related phrases for the client.
   - Wrote the SEO title and Meta Description used by the Writers.
@@ -134,10 +132,10 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 <span><img src="https://github.com/Kernix13/Kernix13/blob/main/insomnia.png" width="40" height="40" alt="Insomnia Rest icon" title="Insomnia Rest" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="mongodb icon" title="MongoDB" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="php icon" title="PHP" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="jquery icon" title="jQuery" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="48" height="48" alt="webpack icon" title="Webpack" /></span>
-<span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/git-bash.svg" width="48" height="48" alt="bash icon" title="Git Bash" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="figma icon" title="Figma" /></span>
+<!-- <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="jquery icon" title="jQuery" /></span> -->
+<!-- <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/git-bash.svg" width="48" height="48" alt="bash icon" title="Git Bash" /></span> -->
 <!-- <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest" /></span> -->
 <!-- <span><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="48" height="48" alt="Electron" title="Electron" /></span> -->
 </p>
