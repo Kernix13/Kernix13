@@ -79,7 +79,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 ### Experience
 
-- 12+ years as an Inventory Planner/Analyst for companies ranging from $10 to $4B in annual sales.
+- 12+ years as an Inventory Planner/Analyst for companies ranging from $10M to $4B in annual sales.
   - Daily & weekly communication with managers and co-workers from other departments and with our vendors.
   - Responsibilities included using MS Excel and Access, and writing SAS programs for data analysis.
 - I started my pet services business in 2008 servicing 200+ clients and hiring 7 employees.
