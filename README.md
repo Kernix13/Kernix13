@@ -81,7 +81,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 - Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/):
   - **Two Average Gamers**: Increased Lighthouse score from ~43% to ~71%; wrote 301 redirects for the .htaccess file.
   - **propMeup**: Finished the website and taught the site owner via Slack Huddles how to edit page content using Elementor.
-- Two clients on Fiverr (my [Fiverr profile](https://www.fiverr.com/jimkernicky?public_mode=true)) involving a WordPress block theme build, and converting PDF tables to HTNL tables
+- Two clients on Fiverr (my [Fiverr profile](https://www.fiverr.com/jimkernicky?public_mode=true)) involving a WordPress block theme build, and converting PDF tables to HTML tables
 
 <br>
 
