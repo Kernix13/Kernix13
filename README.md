@@ -23,13 +23,9 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 Continue reading about me in this profile, take a look at my personal [portfolio page](https://courageous-cuchufli-816711.netlify.app/) or download a [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) from this repo.
 
-<br>
-
 <p align="center">––––––––––––––––––––––––––––––––––</p>
 <h3 align="center"><em>💬 Ask me about camping, bushcraft, orienteering, botany, guitar, music theory, or outdoor photography</em>.</h3>
 <p align="center">––––––––––––––––––––––––––––––––––</p>
-
-<br>
 
 ## WHAT AM I WORKING ON?
 
@@ -37,15 +33,11 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 ✅ I converted one JavaScript project to TypeScript ([WriterAssist](https://github.com/Kernix13/WriterAssist)) and will be doing the same for my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project.
 
-✅ Recently completed a PHP/Laravel app ([PostNChat](https://github.com/Kernix13/php-laravel-postnchat)). Laravel is impressive and I need to dive deeper into PHP.
-
 ✅ **_Next to-do items_**: Analyze my portfolio projects from a functional and structural point-of-view so that building projects/apps in the future is easier and faster.
-
-<br>
 
 ## COLLABORATION IDEAS
 
-📌 I'm looking to collaborate with over devs on **_JS generated guitar chord SVGs_** which I will use in the guitar app mentioned above.
+📌 I'm looking to collaborate with over devs on **_JS generated guitar chord SVGs_**.
 
 📌 I'm looking for help with keyboard layouts for different languages to improve WriterAssist.
 
@@ -55,8 +47,6 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 - [Markdown Cheat Sheet for Beginners](https://kernixwebdesign.com/website/code/markdown-cheat-sheet-beginners/)
 - [18 Graphic Design Tips for Your Website](https://kernixwebdesign.com/website/18-graphic-design-tips-websites/)
 - [WordPress Recent Posts using a Custom Query](https://kernixwebdesign.com/website/code/wordpress-recent-posts-using-a-custom-query/) -->
-
-<br>
 
 ## MY EDUCATION & EXPERIENCE
 
@@ -82,8 +72,6 @@ Continue reading about me in this profile, take a look at my personal [portfolio
   - **Two Average Gamers**: Increased Lighthouse score from ~43% to ~71%; wrote 301 redirects for the .htaccess file.
   - **propMeup**: Finished the website and taught the site owner via Slack Huddles how to edit page content using Elementor.
 - Two clients on Fiverr (my [Fiverr profile](https://www.fiverr.com/jimkernicky?public_mode=true)) involving a WordPress block theme build, and converting PDF tables to HTML tables
-
-<br>
 
 ## LANGUAGES AND TOOLS
 
@@ -130,16 +118,12 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 <!-- https://github.com/devicons/devicon -->
 
-<br>
-
 ## CLIENT TESTIMONIALS
 
 | Aaron S. | Julian A., | Susan K. |
 | :------: | :--------: | :------: |
 | [campingventureshub.com](https://campingventureshub.com/) | [twoaveragegamers.com](https://twoaveragegamers.com/) | [propmeup.net](https://propmeup.net/) |
 |   "_Jim was very knowledgeable with WordPress and completed all the goals and was in communication with me the entire time. Highly recommend using him, and I will be using his services again in the future._"      |   "_It’s our absolute pleasure to recommend Jim Kernicky for a Web Developer role. He worked with us at Two Average Gamers as our WordPress Web Developer since December 2021 and fully optimized our website for performance..._"         | "_Jim assisted PropMEUP! with the completion of our WordPress website. He was thorough, made valuable suggestions, was patient in training, and was always available to provide first-class service!_"       |
-
-<br>
 
 ## SEND ME A MESSAGE
 
@@ -152,8 +136,6 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 <a href="https://twitter.com/jimkernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jimkernicky" height="27" width="36" />
 </a>
 </p>
-
-<br>
 
 ## GITHUB REPO LANGUAGES
 
