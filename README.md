@@ -63,13 +63,13 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 - 12+ years as an Inventory Planner/Analyst for companies ranging from $10M to $4B in annual sales.
   - Responsibilities included using MS Excel and Access, and writing SAS programs for data analysis.
-  - Daily & weekly communication with managers and co-workers from other departments and with our vendors.
+  - Daily & weekly communication with managers and co-workers and vendors.
 - I started my pet services business in 2008 servicing 200+ clients and hiring 7 employees.
   - Built my website with Dreamweaver in 2009, and converted it to WordPress in 2018.
   - Wrote 85+ pages and posts with optimized images and on-page SEO.
 - Remote position as a **Topic Creator** with _The HOTH_: SEO keyword research, meta title, meta description.
 - Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/):
-  - **Two Average Gamers**: Google PSI performance increase from ~43% to ~71%; added 301 redirects to .htaccess file.
+  - **Two Average Gamers**: Google PSI score from ~43% to ~71%; added 301 redirects to .htaccess file.
   - **propMeup**: Finished client's website; taught the site owner via Slack Huddles how to use Elementor.
 - Two clients on Fiverr (my [Fiverr profile](https://www.fiverr.com/jimkernicky?public_mode=true)): Finished a WordPress site | Converted PDF tables to HTML elements
 
