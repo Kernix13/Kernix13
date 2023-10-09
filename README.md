@@ -33,7 +33,9 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 ✅ I converted one JavaScript project to TypeScript ([WriterAssist](https://github.com/Kernix13/WriterAssist)) and will be doing the same for my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project.
 
-✅ **_Next to-do items_**: Analyze my portfolio projects from a functional and structural point-of-view so that building projects/apps in the future is easier and faster.
+✅ It's been a while since I completed freeCodeCamp's [Web Design and JavaScript certifications](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7), so I started their course _Foundational C#_ on the Microsoft Learn platform.
+
+<!-- ✅ **_Next to-do items_**: Analyze my portfolio projects from a functional and structural point-of-view so that building projects/apps in the future is easier and faster. -->
 
 ## COLLABORATION IDEAS
 
@@ -48,18 +50,18 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 - [18 Graphic Design Tips for Your Website](https://kernixwebdesign.com/website/18-graphic-design-tips-websites/)
 - [WordPress Recent Posts using a Custom Query](https://kernixwebdesign.com/website/code/wordpress-recent-posts-using-a-custom-query/) -->
 
-## MY EDUCATION & EXPERIENCE
+## MY EXPERIENCE
 
-### Education
+<!-- ### Education
 
 - B.S. Operations Management, Drexel University 1992
 - [freeCodeCamp certifications](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7):
   1. Responsive Web Design (issued July 2, 2021),
   2. JavaScript Algorithms and Data Structures (issued March 30, 2022)
 - Currently taking _Foundational C#_ on Microsoft Learn via freeCodeCamp
-- Udemy courses completed: [The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-10fd2952-c4dd-4e6f-8028-76da9cddf5a2/), [Git: Mastering the Modern Workflow](https://www.udemy.com/certificate/UC-aeae04f7-40dc-4034-8710-716534007201/), [Mastering TypeScript - 2023 Edition](https://www.udemy.com/certificate/UC-1a114ac1-cc1a-4e44-b77d-5b71f26d0b96/), [Web Developer Bootcamp 2023](https://www.udemy.com/certificate/UC-c6de042a-140d-48f8-811f-2b0eeadfed5b/), [WordPress Theme & Plugin Development](https://www.udemy.com/certificate/UC-446c63fb-0bc4-4a53-953d-e03271470ce2/), [MySQL For Beginners](https://www.udemy.com/certificate/UC-e935b4b7-d8b4-4ecc-ae47-8406aadc6c59/), [Learn Laravel](https://www.udemy.com/certificate/UC-482bb2e8-6ca0-427a-82b1-b30ed44d8d6c/)
+- Udemy courses completed: [The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-10fd2952-c4dd-4e6f-8028-76da9cddf5a2/), [Git: Mastering the Modern Workflow](https://www.udemy.com/certificate/UC-aeae04f7-40dc-4034-8710-716534007201/), [Mastering TypeScript - 2023 Edition](https://www.udemy.com/certificate/UC-1a114ac1-cc1a-4e44-b77d-5b71f26d0b96/), [Web Developer Bootcamp 2023](https://www.udemy.com/certificate/UC-c6de042a-140d-48f8-811f-2b0eeadfed5b/), [WordPress Theme & Plugin Development](https://www.udemy.com/certificate/UC-446c63fb-0bc4-4a53-953d-e03271470ce2/), [MySQL For Beginners](https://www.udemy.com/certificate/UC-e935b4b7-d8b4-4ecc-ae47-8406aadc6c59/), [Learn Laravel](https://www.udemy.com/certificate/UC-482bb2e8-6ca0-427a-82b1-b30ed44d8d6c/) -->
 
-### Experience
+<!-- ### Experience -->
 
 - 12+ years as an Inventory Planner/Analyst for companies ranging from $10M to $4B in annual sales.
   - Responsibilities included using MS Excel and Access, and writing SAS programs for data analysis.
@@ -67,10 +69,12 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 - I started my pet services business in 2008 servicing 200+ clients and hiring 7 employees.
   - Built my website with Dreamweaver in 2009, and converted it to WordPress in 2018.
   - Wrote 85+ pages and posts with optimized images and on-page SEO.
-- Remote position as a **Topic Creator** with _The HOTH_: SEO keyword research, meta title, meta description.
+- Remote position as a **Topic Creator** with _The HOTH_:
+  - Researched the best SEO keyword phrases and related phrases for client orders.
+  - Wrote the SEO title and Meta Description used by the Writers.
 - Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/):
-  - **Two Average Gamers**: Google PSI score from ~43% to ~71%; added 301 redirects to .htaccess file.
-  - **propMeup**: Finished client's website; taught the site owner via Slack Huddles how to use Elementor.
+  - **Two Average Gamers**: Increased Lighthouse score from ~43% to ~71%; wrote 301 redirects for the .htaccess file.
+  - **propMeup**: Finished the website and taught the site owner via Slack Huddles how to edit page content using Elementor.
 - Two clients on Fiverr (my [Fiverr profile](https://www.fiverr.com/jimkernicky?public_mode=true)): Finished a WordPress site | Converted PDF tables to HTML elements
 
 ## LANGUAGES AND TOOLS
