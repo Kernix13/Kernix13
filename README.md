@@ -4,11 +4,11 @@
 
 ![Jim's GitHub Banner](./assets/Ridleygold_1500x500.jpg 'Fall foliage at Ridley Creek State Park')
 
-<p align="right"><em>Autumn foliage at Ridley Creek State Park by James Kernicky &copy; 2004</em></p>
+<p align="center"><em>Autumn foliage at Ridley Creek State Park by James Kernicky &copy; 2004</em></p>
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13?style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/Kernix13?style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/jimkernicky?style=social)
+<!-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13?style=for-the-badge) -->
+<!-- ![GitHub Followers](https://img.shields.io/github/followers/Kernix13?style=for-the-badge) -->
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/jimkernicky?style=social) -->
 
 <!-- ![freeCodeCamp](https://img.shields.io/freecodecamp/points/fccb4a9d0f6-135f-4a94-97f5-795068269ca7?label=freeCodeCamp&style=for-the-badge) -->
 <!-- ![GitHub all releases](https://img.shields.io/github/downloads/Kernix13/Kernix13/total?style=flat-square) -->
