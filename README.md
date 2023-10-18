@@ -62,7 +62,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 - 12+ years as an Inventory Planner/Analyst for companies ranging from $10M to $4B in annual sales.
   - Responsibilities included using Microsoft Access and SAS for statistical analysis and reporting.
   - Daily & weekly communication with managers, co-workers, and vendors.
-- I started my pet services business in 2008 servicing 200+ clients and hiring 7 employees.
+- Started a pet services business in 2008 servicing 200+ clients and hiring 7 employees.
   - Built my website with Dreamweaver in 2009, and converted it to WordPress in 2018.
   - Wrote over 175 pages and posts with optimized images and on-page SEO.
 - Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/):
