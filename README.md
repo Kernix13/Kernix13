@@ -116,7 +116,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 <!-- https://github.com/devicons/devicon -->
 
-## SEND ME A MESSAGE
+### SEND ME A MESSAGE
 
 <p align="left">
 <a href="https://linkedin.com/in/jim-kernicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-kernicky" height="24" width="32" /></a>
