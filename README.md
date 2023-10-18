@@ -35,10 +35,6 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 ✅ It's been a while since I completed freeCodeCamp's [Web Design and JavaScript certifications](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7), so I started their course _Foundational C#_ on the Microsoft Learn platform.
 
-<!-- ✅ **_Next to-do items_**: Analyze my portfolio projects from a functional and structural point-of-view so that building projects/apps in the future is easier and faster. -->
-
-## COLLABORATION IDEAS
-
 📌 I'm looking to collaborate with over devs on **_JS generated guitar chord SVGs_**.
 
 📌 I'm looking for help with keyboard layouts for different languages to improve WriterAssist.
@@ -78,15 +74,20 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 - Two clients on Fiverr (my [Fiverr profile](https://www.fiverr.com/jimkernicky?public_mode=true)): Finished a WordPress site | Converted PDF tables to HTML elements
 
 ### CLIENT TESTIMONIALS
-
+<!--
 | Aaron S. | Julian A., | Susan K. |
 | :------: | :--------: | :------: |
 | [campingventureshub.com](https://campingventureshub.com/) | [twoaveragegamers.com](https://twoaveragegamers.com/) | [propmeup.net](https://propmeup.net/) |
 |   "_Jim was very knowledgeable with WordPress and completed all the goals and was in communication with me the entire time. Highly recommend using him, and I will be using his services again in the future._"      |   "_It’s our absolute pleasure to recommend Jim Kernicky for a Web Developer role. He worked with us at Two Average Gamers as our WordPress Web Developer since December 2021 and fully optimized our website for performance..._"         | "_Jim assisted PropMEUP! with the completion of our WordPress website. He was thorough, made valuable suggestions, was patient in training, and was always available to provide first-class service!_"       |
+-->
+
+| Author | Message | 
+| :-- | :-- |
+| [Aaron S.](https://campingventureshub.com/) | "_Jim was very knowledgeable with WordPress and completed all the goals and was in communication with me the entire time. Highly recommend using him, and I will be using his services again in the future._" |
+| [Julian A.](https://twoaveragegamers.com/) | "_It’s our absolute pleasure to recommend Jim Kernicky for a Web Developer role. He worked with us at Two Average Gamers as our WordPress Web Developer since December 2021 and fully optimized our website for performance..._" |
+| [Susan K.](https://propmeup.net/) | "_Jim assisted PropMEUP! with the completion of our WordPress website. He was thorough, made valuable suggestions, was patient in training, and was always available to provide first-class service!_" |
 
 ## LANGUAGES AND TOOLS
-
-### Strongest skills
 
 <p align="left">
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html icon" title="HTML5"/></span>
@@ -97,22 +98,16 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="wordpress icon" title="WordPress" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="bootstrap icon" title="Bootstrap" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="tailwind icon" title="Tailwind CSS" /></span>
-</p>
-<p align="left">
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vs code icon" title="VS Code" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="git icon" title="Git" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm icon" title="NPM" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="48" height="48" alt="photoshop icon" title="Photoshop" /></span>
+</p>
+<p align="left">
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" width="48" height="48" alt="inkscape icon" title="Inkscape" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="48" height="48" alt="gimp icon" title="GIMP" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40" height="40" alt="slack icon" title="Slack" /></span>
 <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/markdown.svg" width="48" height="48" alt="markdown icon" title="Markdown" /></span>
-<!-- <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/codepen.svg" width="40" height="40" alt="codepen icon" title="CodePen" /></span> -->
-</p>
-
-### Experienced but not as strong as above
-
-<p align="left">
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs icon" title="Node.js" /></span>
 <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/express.svg" width="40" height="40" alt="Express icon" title="Express.js" /></span>
 <span><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="postman icon" title="Postman" /></span>
@@ -121,10 +116,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="mongodb icon" title="MongoDB" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="figma icon" title="Figma" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="48" height="48" alt="webpack icon" title="Webpack" /></span>
-<!-- <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="jquery icon" title="jQuery" /></span> -->
-<!-- <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/git-bash.svg" width="48" height="48" alt="bash icon" title="Git Bash" /></span> -->
-<!-- <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest" /></span> -->
-<!-- <span><img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="48" height="48" alt="Electron" title="Electron" /></span> -->
+<!-- <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/codepen.svg" width="40" height="40" alt="codepen icon" title="CodePen" /></span> -->
 </p>
 
 <!-- https://github.com/devicons/devicon -->
