@@ -68,7 +68,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 - Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/):
   - **Two Average Gamers**: Increased Lighthouse score from ~43% to ~71%; wrote 301 redirects for the .htaccess file.
   - **propMeup**: Finished the website and taught the site owner via Slack Huddles how to edit page content using Elementor.
-- [Fiverr](https://www.fiverr.com/jimkernicky?public_mode=true) clients: Finished two WordPress sites | Converted PDF tables to HTML elements.
+- [Fiverr](https://www.fiverr.com/jimkernicky?public_mode=true) clients: Finished a WordPress block-theme site | Setup a WordPress.com site | Converted PDF tables to HTML elements.
 - Remote **Topic Creator** with _The HOTH_: Researched keyword phrases for clients, wrote SEO title & Description.
 
 ### CLIENT TESTIMONIALS
