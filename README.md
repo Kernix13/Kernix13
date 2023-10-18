@@ -64,7 +64,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
   - Daily & weekly communication with managers, co-workers, and vendors.
 - Started a pet services business in 2008 servicing 200+ clients and hiring 7 employees.
   - Built my website with Dreamweaver in 2009, and converted it to WordPress in 2018.
-  - Wrote over 175 pages and posts with optimized images and on-page SEO.
+  - Wrote over 175 pages and posts with optimized images, on-page SEO, and custom CSS.
 - Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/):
   - **Two Average Gamers**: Increased Lighthouse score from ~43% to ~71%; wrote 301 redirects for the .htaccess file.
   - **propMeup**: Finished the website and taught the site owner via Slack Huddles how to edit page content using Elementor.
