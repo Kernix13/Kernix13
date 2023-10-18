@@ -36,8 +36,6 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 ✅ I converted one JavaScript project to TypeScript ([WriterAssist](https://github.com/Kernix13/WriterAssist)) and will be doing the same for my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project.
 
-✅ It's been a while since I completed freeCodeCamp's [Web Design and JavaScript certifications](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7), so I started their course _Foundational C#_ on the Microsoft Learn platform.
-
 📌 I'm looking to collaborate with over devs on **_JS generated guitar chord SVGs_**.
 
 📌 I'm looking for help with keyboard layouts for different languages to improve WriterAssist.
