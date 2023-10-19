@@ -4,7 +4,13 @@
 
 ![Jim's GitHub Banner](./assets/Ridleygold_1500x500.jpg 'Fall foliage at Ridley Creek State Park')
 
-<!-- <p align="center"><em>Autumn foliage at Ridley Creek State Park by James Kernicky &copy; 2004</em></p> -->
+<p align="center"><em>Autumn foliage at Ridley Creek State Park by James Kernicky &copy; 2004</em></p>
+
+<img src="https://img.shields.io/github/stars/Kernix13?style=for-the-badge&label=GitHub%20Stars" alt="Jim Kernicky's GitHub stars"/>
+<img src="https://img.shields.io/github/followers/Kernix13?label=GitHub%20Followers&style=for-the-badge" alt="Jim Kernicky's GitHub followers"/>
+<a href="https://twitter.com/jimkernicky">
+<img src="https://img.shields.io/badge/follow-@jimkernicky%20-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Jim Kernicky's Twitter"/>
+</a>
 
 <!-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Kernix13/Kernix13?style=for-the-badge) -->
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/Kernix13?style=for-the-badge) -->
