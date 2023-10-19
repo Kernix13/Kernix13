@@ -27,10 +27,6 @@
 
 **<hi align="center"><ins>JAMES KERNICKY</ins></hi>**
 
----
-
-<hr>
-
 ## ABOUT ME
 
 I live in Springfield, Pennsylvania, and have been building projects and apps using front-end and back-end languages and technologies with the goal of landing a Web Design or Front-End Developer job. I have loved learning all my life, and I have been studying web design, and web development since 2020.
