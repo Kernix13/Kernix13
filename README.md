@@ -27,7 +27,7 @@ I built my first two websites in 2009 using Dreamweaver. I installed WordPress o
 
 Continue reading about me in this profile, take a look at my personal [portfolio page](https://courageous-cuchufli-816711.netlify.app/) or download a [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) from this repo.
 
-## WHAT AM I WORKING ON?
+## WHAT I AM WORKING ON
 
 ✅ I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon.
 
