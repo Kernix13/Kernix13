@@ -13,7 +13,7 @@
 
 <div align="center"><img src="https://github.com/Kernix13/Kernix13/blob/main/circle-profile-pic.png" ></div>
 
-<p align="center">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>
+<p align="center">––––––––––––––––––––––––––––––––––</p>
 <h3 align="center"><em>🗨️ Ask me about bushcraft, botany, guitar, or outdoor photography</em>.</h3>
 <p align="center">––––––––––––––––––––––––––––––––––</p>
 
