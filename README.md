@@ -31,7 +31,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 ✅ I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon.
 
-✅ Converted ([WriterAssist](https://github.com/Kernix13/WriterAssist)) from JavaScript to TypeScript and will be doing the same for my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project.
+✅ Cleaning up my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project before I convert it from JavaScript to TypeScript.
 
 📌 Looking to add to my [freeCodeCamp certifications](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7) so I started their course _Foundational C#_ on the Microsoft Learn platform.
 
