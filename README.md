@@ -131,10 +131,10 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 </a>
 </p> -->
 
-## GITHUB REPO LANGUAGES
+<!-- ## GITHUB REPO LANGUAGES
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&show_icons=true&locale=en&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13's GitHub Top Languages" /></p>
 
 ## GITHUB STATS
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13 GitHub Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13 GitHub Stats" /></p> -->
