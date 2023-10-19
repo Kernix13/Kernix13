@@ -25,7 +25,11 @@
 
 <div align="center"><img src="https://github.com/Kernix13/Kernix13/blob/main/circle-profile-pic.png" ></div>
 
-**<hi align="center"><ins>JAMES KERNICKY</ins></hi>**
+**<h1 align="center"><ins>JAMES KERNICKY</ins></h1>**
+
+---
+
+<hr>
 
 ## ABOUT ME
 
