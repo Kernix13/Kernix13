@@ -1,8 +1,6 @@
 ![Jim's GitHub Banner](./assets/Ridleygold_1500x500.jpg 'Fall foliage at Ridley Creek State Park')
 
-<!-- <p align="center"><em>Autumn foliage at Ridley Creek State Park</em> ~ James Kernicky &copy; 2004</p> -->
-
-<br>
+<p align="center"><em>Autumn foliage at Ridley Creek State Park</em> ~ James Kernicky &copy; 2004</p>
 
 <p align="center">
 <img src="https://img.shields.io/github/stars/Kernix13?style=for-the-badge&label=GitHub%20Stars" alt="Jim Kernicky's GitHub Stars"/>
