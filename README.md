@@ -6,8 +6,8 @@
 
 <p align="center"><em>Autumn foliage at Ridley Creek State Park by James Kernicky &copy; 2004</em></p>
 
-<img src="https://img.shields.io/github/stars/Kernix13?style=for-the-badge&label=GitHub%20Stars" alt="Jim Kernicky's GitHub stars"/>
-<img src="https://img.shields.io/github/followers/Kernix13?label=GitHub%20Followers&style=for-the-badge" alt="Jim Kernicky's GitHub followers"/>
+![GitHub Stars](https://img.shields.io/github/stars/Kernix13?style=for-the-badge&label=GitHub%20Stars)
+![GitHub Followers](https://img.shields.io/github/followers/Kernix13?label=GitHub%20Followers&style=for-the-badge)
 <a href="https://twitter.com/jimkernicky">
 <img src="https://img.shields.io/badge/follow-@jimkernicky%20-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Jim Kernicky's Twitter"/>
 </a>
