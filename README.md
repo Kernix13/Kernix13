@@ -55,11 +55,35 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 ### CLIENT TESTIMONIALS
 
-| Author | Message | 
-| :-- | :-- |
-| [Aaron S.](https://campingventureshub.com/) | "_Jim was very knowledgeable with WordPress and completed all the goals and was in communication with me the entire time. Highly recommend using him, and I will be using his services again in the future._" |
-| [Julian A.](https://twoaveragegamers.com/) | "_It’s our absolute pleasure to recommend Jim Kernicky for a Web Developer role. He worked with us at Two Average Gamers as our WordPress Web Developer since December 2021 and fully optimized our website for performance..._" |
-| [Susan K.](https://propmeup.net/) | "_Jim assisted PropMEUP! with the completion of our WordPress website. He was thorough, made valuable suggestions, was patient in training, and was always available to provide first-class service!_" |
+<table>
+  <thead>
+    <tr>
+      <th>Author</th>
+      <th>Message</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aaron S.</td>
+      <td>"<em>Jim was very knowledgeable with WordPress and completed all the goals and was in communication with me
+          the entire time.
+          Highly recommend using him, and I will be using his services again in the future</em>."</td>
+    </tr>
+    <tr>
+      <td>Julian A.</td>
+      <td>"<em>It’s our absolute pleasure to recommend Jim Kernicky for a Web Developer role. He worked with us at Two
+          Average Gamers
+          as our WordPress Web Developer since December 2021 and fully optimized our website for
+          performance....</em>."</td>
+    </tr>
+    <tr>
+      <td>Susan K.</td>
+      <td>"<em>Jim assisted PropMEUP! with the completion of our WordPress website. He was thorough, made valuable
+          suggestions, was
+          patient in training, and was always available to provide first-class service!</em>."</td>
+    </tr>
+  </tbody>
+</table>
 
 ## LANGUAGES AND TOOLS
 
