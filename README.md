@@ -96,9 +96,9 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="wordpress icon" title="WordPress" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="php icon" title="PHP" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="bootstrap icon" title="Bootstrap" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="tailwind icon" title="Tailwind CSS" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vs code icon" title="VS Code" /></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="git icon" title="Git" /></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="tailwind icon" title="Tailwind CSS" /></span>
 </p>
 <p align="left">
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs icon" title="Node.js" /></span>
