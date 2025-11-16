@@ -52,7 +52,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
   - **propMeup**: Finished the website and taught the site owner via Slack Huddles how to edit page content using Elementor.
 - [Fiverr](https://www.fiverr.com/jimkernicky?public_mode=true) clients: Finished a WordPress block-theme site | Setup a WordPress.com site | Converted PDF tables to HTML elements.
 - Remote **Topic Creator** with _The HOTH_: Researched keyword phrases for clients, wrote SEO titles & Descriptions.
-
+<!--
 ### CLIENT TESTIMONIALS
 
 <table>
@@ -84,7 +84,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
     </tr>
   </tbody>
 </table>
-
+-->
 ## LANGUAGES AND TOOLS
 
 <p align="left">
