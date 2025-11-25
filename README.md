@@ -88,31 +88,33 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 ## LANGUAGES AND TOOLS
 
 <p align="left">
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html icon" title="HTML5"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="css icon" title="CSS3" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"  alt="javascript icon" title="JavaScript" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="Typescript icon" title="TypeScript" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="react icon" title="React" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="wordpress icon" title="WordPress" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="php icon" title="PHP" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="bootstrap icon" title="Bootstrap" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vs code icon" title="VS Code" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="git icon" title="Git" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="tailwind icon" title="Tailwind CSS" /></span>
-</p> 
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html icon" title="HTML5"/></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="css icon" title="CSS3" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"  alt="javascript icon" title="JavaScript" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="Typescript icon" title="TypeScript" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="react icon" title="React" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="wordpress icon" title="WordPress" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="bootstrap icon" title="Bootstrap" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="tailwind icon" title="Tailwind CSS" /></span>
+</p>
 <p align="left">
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs icon" title="Node.js" /></span>
-<span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/express.svg" width="40" height="40" alt="Express icon" title="Express.js" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="mongodb icon" title="MongoDB" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-plain.svg" width="40" height="40" alt="python icon" title="Python" /></span>
-<span><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="postman icon" title="Postman" /></span>
-<span><img src="https://github.com/Kernix13/Kernix13/blob/main/insomnia.png" width="40" height="40" alt="Insomnia Rest icon" title="Insomnia Rest" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="48" height="48" alt="photoshop icon" title="Photoshop" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" width="48" height="48" alt="inkscape icon" title="Inkscape" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="48" height="48" alt="gimp icon" title="GIMP" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40" height="40" alt="slack icon" title="Slack" /></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="figma icon" title="Figma" /></span>
-<span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/markdown.svg" width="48" height="48" alt="markdown icon" title="Markdown" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="php icon" title="PHP" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs icon" title="Node.js" /></span>
+  <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/express.svg" width="40" height="40" alt="Express icon" title="Express.js" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="mongodb icon" title="MongoDB" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL icon" title="MySQL" /></span>
+  <span><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="postman icon" title="Postman" /></span>
+  <span><img src="https://github.com/Kernix13/Kernix13/blob/main/insomnia.png" width="40" height="40" alt="Insomnia Rest icon" title="Insomnia Rest" /></span>
+</p>
+<p align="left">
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="git icon" title="Git" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vs code icon" title="VS Code" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg" width="48" height="48" alt="photoshop icon" title="Photoshop" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" width="48" height="48" alt="inkscape icon" title="Inkscape" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="48" height="48" alt="gimp icon" title="GIMP" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40" height="40" alt="slack icon" title="Slack" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="figma icon" title="Figma" /></span>
+  <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/markdown.svg" width="48" height="48" alt="markdown icon" title="Markdown" /></span>
 </p>
 
 ## GITHUB REPO LANGUAGES
