@@ -29,12 +29,18 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 -->
 ## WHAT I AM WORKING ON
 
-✅ I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon.
+<!-- ✅ I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon. -->
+
+✅ I'm currently taking a **Python 3 Bootcamp** course on Udemy by Colt Steele.
+
+✅ I'm finishing a Web Development capstone project for [Code:You](https://code-you.org/learn/schedule/).
 
 ✅ Currently refactoring my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project before I convert it from JavaScript to TypeScript.
+
 <!--
 📌 Looking to add to my [freeCodeCamp certifications](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7) so I started their course _Foundational C#_ on the Microsoft Learn platform.
 -->
+
 📌 I'm looking to collaborate with over devs on **_JS generated guitar chord SVGs_**.
 
 📌 I'm looking for help with keyboard layouts for different languages to improve WriterAssist.
