@@ -1,148 +1,141 @@
 ![Jim's GitHub Banner](./assets/Ridleygold_1500x500.jpg 'Fall foliage at Ridley Creek State Park')
 
-<p align="center"><em>Autumn foliage at Ridley Creek State Park</em> ~ James Kernicky &copy; 2004</p>
+<p align="center"><em>Autumn foliage at Ridley Creek State Park</em> • James Kernicky © 2004</p>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/Kernix13?style=for-the-badge&label=GitHub%20Stars" alt="Jim Kernicky's GitHub Stars"/>
-<a href="https://github.com/Kernix13?tab=followers">
-<img src="https://img.shields.io/github/followers/Kernix13?label=GitHub%20Followers&style=for-the-badge" alt="Jim Kernicky's GitHub followers"/></a>
-<a href="https://twitter.com/jimkernicky">
-<img src="https://img.shields.io/badge/follow-@jimkernicky%20-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Jim Kernicky's Twitter"/>
-</a>
+  <img src="https://img.shields.io/github/stars/Kernix13?style=for-the-badge&label=GitHub%20Stars" />
+  <a href="https://github.com/Kernix13?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kernix13?label=GitHub%20Followers&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/jimkernicky">
+    <img src="https://img.shields.io/badge/follow-@jimkernicky-black?logo=x&style=for-the-badge" />
+  </a>
 </p>
 
-<div align="center"><img src="https://github.com/Kernix13/Kernix13/blob/main/circle-profile-pic.png" ></div>
+<div align="center">
+  <img src="https://github.com/Kernix13/Kernix13/blob/main/circle-profile-pic.png" width="160" />
+</div>
 
-<p align="center">––––––––––––––––––––––––––––––––––</p>
-<h3 align="center"><em>🗨️ Ask me about bushcraft, botany, guitar, or outdoor photography</em>.</h3>
-<p align="center">––––––––––––––––––––––––––––––––––</p>
+<br/>
 
-**<h1 align="center"><ins>JAMES KERNICKY</ins></h1>**
+<h1 align="center">JAMES KERNICKY</h1>
+
+<h3 align="center"><em>Ask me about bushcraft, botany, guitar, or outdoor photography.</em></h3>
+
+<br>
 
 ## ABOUT ME
 
-I live in Madison County, Kentucky, and have been building projects and apps using front-end and back-end languages and technologies with the goal of landing a Web Design or Front-End Developer job. I have loved learning all my life, and I have been studying web design, and web development since 2020.
+I'm a WordPress designer/developer and front-end programmer based in Madison County, Kentucky. I've been building projects since 2009 and studying modern web development since 2020.
 
-I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _[underscores](https://underscores.me/)_ as a starter template. Although I like WordPress and what it has to offer for small businesses, I love writing JavaScript and CSS to bring my project ideas to life.
+I enjoy creating performant, accessible, and cleanly designed websites — from custom WordPress themes to JavaScript-driven UI features. My most recent WordPress site uses a theme I built from the _underscores_ starter.
 
-Continue reading about me in this profile, take a look at my personal [portfolio page](https://jameskernicky.netlify.app/) or download a [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) from this repo.
+You can explore my work on my [portfolio](https://jameskernicky.netlify.app/) or download my [resume (PDF)](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf).
 
-## WHAT I AM WORKING ON
+<br>
 
-✅ I'm currently taking a **Python 3 Bootcamp** course on Udemy by Colt Steele.
+## WHAT I’M WORKING ON
 
-✅ I'm finishing a Web Development capstone project for [Code:You](https://code-you.org/learn/schedule/).
+- ✔️ Completing a **Python 3 Bootcamp** by Colt Steele
+- ✔️ Finishing a web development capstone project for [Code:You](https://code-you.org/learn/schedule/)
+- ✔️ Rebuilding my [Guitar Chord Namer project](https://github.com/Kernix13/guitar-chord-names) as a better multi-instrument chord namer ([what-chord-is-this](https://github.com/Kernix13/what-chord-is-this))
+- 📌 Collaborating on JS-generated **guitar chord SVGs**
+- 📌 Improving keyboard layouts for multilingual support in **WriterAssist**
 
-✅ Currently refactoring my [Guitar Chord Namer](https://github.com/Kernix13/guitar-chord-names) project before I convert it from JavaScript to TypeScript.
+<br>
 
-<!--
-📌 Looking to add to my [freeCodeCamp certifications](https://www.freecodecamp.org/fccb4a9d0f6-135f-4a94-97f5-795068269ca7) so I started their course _Foundational C#_ on the Microsoft Learn platform.
--->
+## EXPERIENCE SUMMARY
 
-📌 I'm looking to collaborate with over devs on **_JS generated guitar chord SVGs_**.
+- **Inventory Planner/Analyst (12+ years)**  
+  Using MS Access & SAS for analysis, forecasting, and reporting
 
-📌 I'm looking for help with keyboard layouts for different languages to improve WriterAssist.
+- **Pet services business owner**  
+  Built & optimized a 175-page WordPress website with custom CSS & SEO
 
-## MY EXPERIENCE
+- **Volunteer Web Dev**
 
-- 12+ years as an Inventory Planner/Analyst for companies ranging from $10M to $4B in annual sales.
-  - Responsibilities included using Microsoft Access and SAS for statistical analysis and reporting.
-  - Daily & weekly communication with managers, co-workers, and vendors.
-- Started a pet services business in 2008 servicing 200+ clients and hiring 7 employees.
-  - Built my website with Dreamweaver in 2009, and converted it to WordPress in 2018.
-  - Wrote over 175 pages and posts with optimized images, on-page SEO, and custom CSS.
-- Volunteer work for [Two Average Gamers](https://twoaveragegamers.com/) and [propMeUp](https://propmeup.net/):
-  - **Two Average Gamers**: Increased Lighthouse score from ~43% to ~71%; wrote 301 redirects for the .htaccess file.
-  - **propMeup**: Finished the website and taught the site owner via Slack Huddles how to edit page content using Elementor.
-- [Fiverr](https://www.fiverr.com/jimkernicky?public_mode=true) clients: Finished a WordPress block-theme site | Setup a WordPress.com site | Converted PDF tables to HTML elements.
-- Remote **Topic Creator** with _The HOTH_: Researched keyword phrases for clients, wrote SEO titles & Descriptions.
+  - _Two Average Gamers_: Improved Lighthouse score from ~43% → ~71%
+  - _propMeUp_: Completed site, trained owner through Slack Huddles
 
-<!--
-### CLIENT TESTIMONIALS
+- **Freelance Work (Fiverr)**  
+  WordPress block theme site • WordPress.com setup • PDF-to-HTML conversions
 
-<table>
-  <thead>
-    <tr>
-      <th>Author</th>
-      <th>Message</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Aaron S.</td>
-      <td>"<em>Jim was very knowledgeable with WordPress and completed all the goals and was in communication with me
-          the entire time.
-          Highly recommend using him, and I will be using his services again in the future</em>."</td>
-    </tr>
-    <tr>
-      <td>Julian A.</td>
-      <td>"<em>It’s our absolute pleasure to recommend Jim Kernicky for a Web Developer role. He worked with us at Two
-          Average Gamers
-          as our WordPress Web Developer since December 2021 and fully optimized our website for
-          performance....</em>."</td>
-    </tr>
-    <tr>
-      <td>Susan K.</td>
-      <td>"<em>Jim assisted PropMEUP! with the completion of our WordPress website. He was thorough, made valuable
-          suggestions, was
-          patient in training, and was always available to provide first-class service!</em>."</td>
-    </tr>
-  </tbody>
-</table>
--->
+- **SEO Content Writer (The HOTH)**  
+  Keyword research, SEO titles, meta descriptions
 
-## LANGUAGES AND TOOLS
+<br>
+
+## Personal / Beyond the Keyboard
+
+Outside of development, I’m usually learning something new or building something from scratch:
+
+- **Outdoor Activitues**: Camping, bushcraft. orienteering, and other outdoor skills
+- **Music**: guitar, piano, and music in general
+- **Photography**: Outdoor and abstract subjects are my favorites
+- **Lifelong learner / nature enthusiast**: I'm addicted to learning!
+
+## TECH STACK
+
+### **Front-End**
 
 <p align="left">
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html icon" title="HTML5"/></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="css icon" title="CSS3" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"  alt="javascript icon" title="JavaScript" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="Typescript icon" title="TypeScript" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="react icon" title="React" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="wordpress icon" title="WordPress" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="bootstrap icon" title="Bootstrap" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="tailwind icon" title="Tailwind CSS" /></span>
-</p>
-<p align="left">
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs icon" title="Node.js" /></span>
-  <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/express.svg" width="40" height="40" alt="Express icon" title="Express.js" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="php icon" title="PHP" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="python icon" title="Python" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="mongodb icon" title="MongoDB" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL icon" title="MySQL" /></span>
-  <span><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="postman icon" title="Postman" /></span>
-  <span><img src="https://github.com/Kernix13/Kernix13/blob/main/insomnia.png" width="40" height="40" alt="Insomnia Rest icon" title="Insomnia Rest" /></span>
-</p>
-<p align="left">
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="git icon" title="Git" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vs code icon" title="VS Code" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg" width="48" height="48" alt="photoshop icon" title="Photoshop" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" width="48" height="48" alt="inkscape icon" title="Inkscape" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="48" height="48" alt="gimp icon" title="GIMP" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40" height="40" alt="slack icon" title="Slack" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="figma icon" title="Figma" /></span>
-  <span><img src="https://github.com/Kernix13/Kernix13/blob/main/assets/markdown.svg" width="48" height="48" alt="markdown icon" title="Markdown" /></span>
+  <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 </p>
 
-## GITHUB REPO LANGUAGES
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&show_icons=true&locale=en&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13's GitHub Top Languages" /></p>
+### **Back-End & CMS**
+
+<p align="left">
+  <img title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img title="Express.js" src="https://github.com/Kernix13/Kernix13/blob/main/assets/express.svg" width="40"/>
+  <img title="WordPress" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40"/>
+  <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+### **Tools & Workflow**
+
+<p align="left">
+  <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img title="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img title="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+  <img title="Slack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40"/>
+  <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img title="Markdown" src="https://github.com/Kernix13/Kernix13/blob/main/assets/markdown.svg" width="40"/>
+  <img title="Photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="40"/>
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" width="40" height="40" alt="inkscape icon" title="Inkscape" /> -->
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="40" height="40" alt="gimp icon" title="GIMP" /> -->
+</p>
+
+<br>
+
+## CONNECT WITH ME
+
+- **Portfolio:** https://jameskernicky.netlify.app
+- **LinkedIn:** https://www.linkedin.com/in/jimkernicky
+- **Discord:** _(invite link)_
+- **Slack Workspace:** _(invite link)_
+
+<br>
 
 ## GITHUB STATS
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13 GitHub Stats" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+</p>
 
 <!--
 <p><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Kernix13&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
 -->
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=Kernix13&theme=dark" alt="GitHub Streak" />
-</p>
-
-<!--
-## GITHUB STATS
-<p><img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13 GitHub Stats" /></p>
--->
-
