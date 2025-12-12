@@ -74,6 +74,8 @@ Outside of development, I’m usually learning something new or building somethi
 - **Photography**: Outdoor and abstract subjects are my favorites
 - **Lifelong learner / nature enthusiast**: I'm addicted to learning!
 
+<br>
+
 ## TECH STACK
 
 ### **Front-End**
