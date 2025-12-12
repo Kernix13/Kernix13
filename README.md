@@ -119,8 +119,7 @@ Outside of development, I’m usually learning something new or building somethi
 
 - **Portfolio:** https://jameskernicky.netlify.app
 - **LinkedIn:** https://www.linkedin.com/in/jimkernicky
-- **Discord:** _(invite link)_
-- **Slack Workspace:** _(invite link)_
+- **Discord:** https://discord.gg/PeT48b6m
 
 <br>
 
