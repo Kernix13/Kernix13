@@ -120,7 +120,7 @@ Outside of development, I’m usually learning something new or building somethi
 ## CONNECT WITH ME
 
 - **Portfolio:** https://jameskernicky.netlify.app
-- **LinkedIn:** https://www.linkedin.com/in/jimkernicky
+- **LinkedIn:** https://www.linkedin.com/in/jim-kernicky/
 - **Discord:** https://discord.gg/PeT48b6m
 
 <br>
