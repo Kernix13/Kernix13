@@ -23,10 +23,10 @@
 
 I live in Madison County, Kentucky, and have been building projects and apps using front-end and back-end languages and technologies with the goal of landing a Web Design or Front-End Developer job. I have loved learning all my life, and I have been studying web design, and web development since 2020.
 
-I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _[underscores](https://underscores.me/)_ as a starter template. Although I like WordPress and what it has to offer for small businesses, I love writing JavaScript and CSS to bring my project ideas to life. Feel free to take a look at my **[portfolio site](https://jameskernicky.netlify.app/)**.
-<!--
+I built my first two websites in 2009 using Dreamweaver. I installed WordPress on one of those sites in 2018, and have since built two other sites using WordPress. The last website I built uses the WordPress theme that I developed using _[underscores](https://underscores.me/)_ as a starter template. Although I like WordPress and what it has to offer for small businesses, I love writing JavaScript and CSS to bring my project ideas to life.
+
 Continue reading about me in this profile, take a look at my personal [portfolio page](https://jameskernicky.netlify.app/) or download a [PDF version of my resume](https://github.com/Kernix13/Kernix13/blob/main/resume.pdf) from this repo.
--->
+
 ## WHAT I AM WORKING ON
 
 <!-- ✅ I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon. -->
