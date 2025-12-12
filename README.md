@@ -29,8 +29,6 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 
 ## WHAT I AM WORKING ON
 
-<!-- ✅ I'm currently taking a [UI Design course](https://designcourse.com/ui-ux) by Gary Simon. -->
-
 ✅ I'm currently taking a **Python 3 Bootcamp** course on Udemy by Colt Steele.
 
 ✅ I'm finishing a Web Development capstone project for [Code:You](https://code-you.org/learn/schedule/).
@@ -58,6 +56,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
   - **propMeup**: Finished the website and taught the site owner via Slack Huddles how to edit page content using Elementor.
 - [Fiverr](https://www.fiverr.com/jimkernicky?public_mode=true) clients: Finished a WordPress block-theme site | Setup a WordPress.com site | Converted PDF tables to HTML elements.
 - Remote **Topic Creator** with _The HOTH_: Researched keyword phrases for clients, wrote SEO titles & Descriptions.
+
 <!--
 ### CLIENT TESTIMONIALS
 
@@ -91,6 +90,7 @@ Continue reading about me in this profile, take a look at my personal [portfolio
   </tbody>
 </table>
 -->
+
 ## LANGUAGES AND TOOLS
 
 <p align="left">
@@ -130,11 +130,13 @@ Continue reading about me in this profile, take a look at my personal [portfolio
 ## GITHUB STATS
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Kernix13 GitHub Stats" /></p>
+
 <!--
 <p><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Kernix13&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
 -->
+
 <p>
   <img src="https://streak-stats.demolab.com?user=Kernix13&theme=dark" alt="GitHub Streak" />
 </p>
