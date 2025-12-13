@@ -3,13 +3,9 @@
 <p align="center"><em>Autumn foliage at Ridley Creek State Park</em> • James Kernicky © 2004</p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Kernix13?style=for-the-badge&label=GitHub%20Stars" />
-  <a href="https://github.com/Kernix13?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kernix13?label=GitHub%20Followers&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/jimkernicky">
-    <img src="https://img.shields.io/badge/follow-@jimkernicky-black?logo=x&style=for-the-badge" />
-  </a>
+<img src="https://img.shields.io/github/stars/Kernix13?style=for-the-badge&label=GitHub%20Stars" />
+<a href="https://github.com/Kernix13?tab=followers">
+<img src="https://img.shields.io/github/followers/Kernix13?label=GitHub%20Followers&style=for-the-badge" /></a>
 </p>
 
 <div align="center">
