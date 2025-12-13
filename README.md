@@ -15,7 +15,7 @@
 
 <br/>
 
-<h1 align="center"><ins>JAMES KERNICKY</h1>ins></h1>
+<h1 align="center"><ins>JAMES KERNICKY</ins></h1></h1>
 
 <h3 align="center"><em>Ask me about bushcraft, botany, guitar, or outdoor photography.</em></h3>
 
