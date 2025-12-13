@@ -36,7 +36,7 @@ You can explore my work on my [portfolio](https://jameskernicky.netlify.app/) or
 - ✔️ Completing a **Python 3 Bootcamp** by Colt Steele
 - ✔️ Finishing a web development capstone project for [Code:You](https://code-you.org/learn/schedule/)
 - ✔️ Rebuilding my [Guitar Chord Namer project](https://github.com/Kernix13/guitar-chord-names) as a better multi-instrument chord namer ([what-chord-is-this](https://github.com/Kernix13/what-chord-is-this))
-- 📌 Collaborating on JS-generated **guitar chord SVGs**
+- 📌 Looking to collaborate on JS-generated **guitar chord SVGs**
 - 📌 Improving keyboard layouts for multilingual support in **WriterAssist**
 
 <br>
