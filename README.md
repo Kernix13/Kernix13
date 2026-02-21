@@ -90,14 +90,14 @@ Outside of development, I’m usually learning something new or building somethi
 ### **Back-End & CMS**
 
 <p align="left">
-  <img title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img title="WordPress" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40"/>
   <img title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img title="Express.js" src="https://github.com/Kernix13/Kernix13/blob/main/assets/express.svg" width="40"/>
-  <img title="WordPress" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="40"/>
-  <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
   <img title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" />
+  <img title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
 
 ### **Tools & Workflow**
