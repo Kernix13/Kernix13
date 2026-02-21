@@ -33,11 +33,13 @@ You can explore my work on my [portfolio](https://jameskernicky.netlify.app/) or
 
 ## WHAT I’M WORKING ON
 
-- ✔️ Completing a **Python 3 Bootcamp** by Colt Steele
-- ✔️ Finishing a web development capstone project for [Code:You](https://code-you.org/learn/schedule/)
+- ✔️ Completing a **Python Data Analysis** course by Colt Steele
+- ✔️ Starting the C#/Software Development pathway with [Code:You](https://code-you.org/learn/schedule/)
+- ✔️ Successfully using my [codeCompare](https://github.com/Kernix13/codeCompare) project to learn Python, C#, and PHP!
 - ✔️ Rebuilding my [Guitar Chord Namer project](https://github.com/Kernix13/guitar-chord-names) as a better multi-instrument chord namer ([what-chord-is-this](https://github.com/Kernix13/what-chord-is-this))
 - 📌 Looking to collaborate on JS-generated **guitar chord SVGs**
 - 📌 Improving keyboard layouts for multilingual support in **WriterAssist**
+- 📌 Hoping to submit my own Katas to [Codewars](https://www.codewars.com/) and have them accepted
 
 <br>
 
