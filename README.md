@@ -105,6 +105,7 @@ Outside of development, I’m usually learning something new or building somethi
 <p align="left">
   <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img title="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img title="Jupyter Notebook" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
   <img title="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
   <img title="Slack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40"/>
   <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
