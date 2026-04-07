@@ -134,15 +134,18 @@ Outside of development, I’m usually learning something new or building somethi
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kernix13&layout=compact&theme=dark" alt="Most used languages" />
 </p>
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Kernix13&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Kernix13&theme=radical)
+
 [![Kernix13's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kernix13&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Kernix13/github-readme-stats#gh-dark-mode-only)
 
-<!--
+
 <p><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Kernix13&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
--->
 
-<!-- 
+
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kernix13&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
@@ -150,4 +153,4 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Kernix13&stroke=ffff
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=kernix13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
--->
+
