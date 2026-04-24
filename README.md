@@ -24,7 +24,7 @@
 
 ## ABOUT ME
 
-I'm a WordPress designer/developer and front-end programmer based in Madison County, Kentucky. I've been building projects since 2009 and studying modern web development since 2020.
+I'm a Web Designer/Developer and WordPress Developer based in Madison County, Kentucky. I've been studying modern web development since 2020.
 
 I enjoy creating performant, accessible, and cleanly designed websites — from custom WordPress themes to JavaScript-driven UI features. My most recent WordPress site uses a theme I built from the _underscores_ starter.
 
@@ -34,7 +34,7 @@ You can explore my work on my [portfolio](https://jameskernicky.netlify.app/) or
 
 ## WHAT I’M WORKING ON
 
-- ✔️ Completing a **Python Data Analysis** course by Colt Steele
+- ✔️ Learning Data Analysis using Jupyter Notebook by focusing on my GitHub README SEO Analysis project
 - ✔️ Starting the C#/Software Development pathway with [Code:You](https://code-you.org/learn/schedule/)
 - ✔️ Successfully using my [codeCompare](https://github.com/Kernix13/codeCompare) project to learn Python, C#, and PHP!
 - ✔️ Rebuilding my [Guitar Chord Namer project](https://github.com/Kernix13/guitar-chord-names) as a better multi-instrument chord namer ([what-chord-is-this](https://github.com/Kernix13/what-chord-is-this))
@@ -44,7 +44,7 @@ You can explore my work on my [portfolio](https://jameskernicky.netlify.app/) or
 
 <br>
 
-## EXPERIENCE SUMMARY
+<!-- ## EXPERIENCE SUMMARY
 
 - **Inventory Planner/Analyst (12+ years)**  
   Using MS Access & SAS for analysis, forecasting, and reporting
@@ -53,7 +53,6 @@ You can explore my work on my [portfolio](https://jameskernicky.netlify.app/) or
   Built & optimized a 175-page WordPress website with custom CSS & SEO
 
 - **Volunteer Web Dev**
-
   - _Two Average Gamers_: Improved Lighthouse score from ~43% → ~71%
   - _propMeUp_: Completed site, trained owner through Slack Huddles
 
@@ -63,7 +62,7 @@ You can explore my work on my [portfolio](https://jameskernicky.netlify.app/) or
 - **SEO Content Writer (The HOTH)**  
   Keyword research, SEO titles, meta descriptions
 
-<br>
+<br> -->
 
 ## Personal / Beyond the Keyboard
 
