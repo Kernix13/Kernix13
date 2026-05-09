@@ -39,8 +39,9 @@ You can explore my work on my [portfolio](https://jameskernicky.netlify.app/) or
 - ✔️ Successfully using my [codeCompare](https://github.com/Kernix13/codeCompare) project to learn Python, C#, and PHP!
 - ✔️ Rebuilding my [Guitar Chord Namer project](https://github.com/Kernix13/guitar-chord-names) as a better multi-instrument chord namer ([what-chord-is-this](https://github.com/Kernix13/what-chord-is-this))
 - 📌 Looking to collaborate on JS-generated **guitar chord SVGs**
+- 📌 Looking to collaborate with other developers to learn the Git collaboration workflow!
 - 📌 Improving keyboard layouts for multilingual support in **WriterAssist**
-- 📌 Hoping to submit my own Katas to [Codewars](https://www.codewars.com/) and have them accepted
+<!-- - 📌 Hoping to submit my own Katas to [Codewars](https://www.codewars.com/) and have them accepted -->
 
 <br>
 
@@ -141,7 +142,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Kernix13&stroke=ffff
 </p>
 -->
 <details>
-  <summary><strong>Languages, commits, & Contributions ➢</strong></summary>
+  <summary><strong>Languages, commits, & Contributions</strong></summary>
     <br>
     <p>
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kernix13&layout=compact&theme=dark" alt="Most used languages" />
